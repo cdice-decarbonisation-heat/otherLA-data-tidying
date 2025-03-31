@@ -14,7 +14,9 @@ processed to UA x month (or year) level
         - CO2 emissions within the scope of influence of LAs (kt CO2)
         - all done with no issues
 
-    - Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
+    - [x] Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
+        - done we use mean electricity consumption per HH in a LA -- simple aggregation by region (note limitations)
+        
     - Unemployment (https://www.nomisweb.co.uk/query/construct/submit.asp?menuopt=201&subcomp=) 
         ○ Source annual population study
     - Solar radiation: tool is here : https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en 
