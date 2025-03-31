@@ -8,20 +8,20 @@ region_lkup_df <- 'data/note solar together region lookup (checked).csv' %>% rea
 income_df <-
     raw_income_df %>%
     transmute(
-        ua_name = [xx],
-        ua_code = [xx]. 
-        `2015` = ,
-        `2016` = ,
-        `2017` = ,
-        `2018` = ,
-        `2019` = ,
-        `2020` = ,
-        `2021` = ,
-        `2022` = ,
-        `2023` = ,
-        `2024` = 
+        ua_name = `local authority: county / unitary (as of April 2021)`,
+        ua_code = mnemonic, 
+        `2015` = `2015`,
+        `2016` = `2016`,
+        `2017` = `2017`,
+        `2018` = `2018`,
+        `2019` = `2019`,
+        `2020` = `2020`,
+        `2021` = `2021`,
+        `2022` = `2022`,
+        `2023` = `2023`,
+        `2024` = `2024`
     )
-
+income_df
 ## get rid of awkard cols -- subset to England 
 income_df <- 
     income_df %>% 
@@ -30,14 +30,21 @@ income_df <-
         ua_code = ua_code %>% tolower
     ) %>%
     filter(
-        substr(1,1, ua_code) == 'e'  # code for England 
+        substr(1,1, x = ua_code) == 'e'  # code for England 
     )
 
+    income_df$ua_code %>% substr(1,1)
 ## ua check the names 
 
 ## is everything there?
-region_lkup_df %>% 
-    filter(mcs_name %in% income_df$ua_name)
+checkQA <- region_lkup_df %>% 
+    filter(
+      !(tolower(mcs_name) %in% income_df$ua_name  )
+    )
+
+checkQA
+
+## 100 or so??? need to check why 
 
 ## Turn to long format -- UA by name 
 income_df <- 
@@ -50,3 +57,4 @@ income_df <-
 
 ## save the outputs 
 income_df %>% write_csv('data/tidydata income by year.csv') 
+
