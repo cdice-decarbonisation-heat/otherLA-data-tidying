@@ -1,0 +1,3101 @@
+ua_name,ua_code,year,unemployment_rate
+darlington,e06000005,2015,6.8
+darlington,e06000005,2016,6.3
+darlington,e06000005,2017,6.2
+darlington,e06000005,2018,4.8
+darlington,e06000005,2019,6.0
+darlington,e06000005,2020,6.0
+darlington,e06000005,2021,5.4
+darlington,e06000005,2022,4.6
+darlington,e06000005,2023,3.4
+darlington,e06000005,2024,4.5
+county durham,e06000047,2015,6.7
+county durham,e06000047,2016,6.0
+county durham,e06000047,2017,5.7
+county durham,e06000047,2018,4.4
+county durham,e06000047,2019,5.4
+county durham,e06000047,2020,5.9
+county durham,e06000047,2021,5.5
+county durham,e06000047,2022,4.2
+county durham,e06000047,2023,3.6
+county durham,e06000047,2024,4.0
+hartlepool,e06000001,2015,9.7
+hartlepool,e06000001,2016,9.3
+hartlepool,e06000001,2017,9.6
+hartlepool,e06000001,2018,8.3
+hartlepool,e06000001,2019,8.4
+hartlepool,e06000001,2020,7.7
+hartlepool,e06000001,2021,7.0
+hartlepool,e06000001,2022,6.2
+hartlepool,e06000001,2023,4.6
+hartlepool,e06000001,2024,4.8
+middlesbrough,e06000002,2015,11.0
+middlesbrough,e06000002,2016,9.1
+middlesbrough,e06000002,2017,7.9
+middlesbrough,e06000002,2018,7.3
+middlesbrough,e06000002,2019,7.1
+middlesbrough,e06000002,2020,7.5
+middlesbrough,e06000002,2021,7.5
+middlesbrough,e06000002,2022,6.0
+middlesbrough,e06000002,2023,5.1
+middlesbrough,e06000002,2024,6.4
+northumberland,e06000057,2015,6.2
+northumberland,e06000057,2016,5.5
+northumberland,e06000057,2017,5.3
+northumberland,e06000057,2018,4.1
+northumberland,e06000057,2019,4.8
+northumberland,e06000057,2020,5.2
+northumberland,e06000057,2021,5.1
+northumberland,e06000057,2022,4.4
+northumberland,e06000057,2023,3.5
+northumberland,e06000057,2024,4.0
+redcar and cleveland,e06000003,2015,8.6
+redcar and cleveland,e06000003,2016,8.5
+redcar and cleveland,e06000003,2017,7.0
+redcar and cleveland,e06000003,2018,5.2
+redcar and cleveland,e06000003,2019,5.6
+redcar and cleveland,e06000003,2020,6.6
+redcar and cleveland,e06000003,2021,6.0
+redcar and cleveland,e06000003,2022,4.2
+redcar and cleveland,e06000003,2023,3.6
+redcar and cleveland,e06000003,2024,4.4
+stockton-on-tees,e06000004,2015,7.0
+stockton-on-tees,e06000004,2016,6.6
+stockton-on-tees,e06000004,2017,6.3
+stockton-on-tees,e06000004,2018,4.8
+stockton-on-tees,e06000004,2019,6.2
+stockton-on-tees,e06000004,2020,5.8
+stockton-on-tees,e06000004,2021,5.5
+stockton-on-tees,e06000004,2022,4.9
+stockton-on-tees,e06000004,2023,4.1
+stockton-on-tees,e06000004,2024,4.2
+gateshead,e08000037,2015,7.1
+gateshead,e08000037,2016,6.2
+gateshead,e08000037,2017,6.1
+gateshead,e08000037,2018,4.7
+gateshead,e08000037,2019,5.2
+gateshead,e08000037,2020,6.1
+gateshead,e08000037,2021,6.2
+gateshead,e08000037,2022,4.6
+gateshead,e08000037,2023,4.1
+gateshead,e08000037,2024,4.1
+newcastle upon tyne,e08000021,2015,8.7
+newcastle upon tyne,e08000021,2016,7.2
+newcastle upon tyne,e08000021,2017,7.0
+newcastle upon tyne,e08000021,2018,6.2
+newcastle upon tyne,e08000021,2019,5.4
+newcastle upon tyne,e08000021,2020,7.0
+newcastle upon tyne,e08000021,2021,7.2
+newcastle upon tyne,e08000021,2022,5.5
+newcastle upon tyne,e08000021,2023,5.2
+newcastle upon tyne,e08000021,2024,6.3
+north tyneside,e08000022,2015,6.3
+north tyneside,e08000022,2016,5.9
+north tyneside,e08000022,2017,5.4
+north tyneside,e08000022,2018,4.9
+north tyneside,e08000022,2019,4.3
+north tyneside,e08000022,2020,5.3
+north tyneside,e08000022,2021,5.8
+north tyneside,e08000022,2022,5.1
+north tyneside,e08000022,2023,3.5
+north tyneside,e08000022,2024,4.4
+south tyneside,e08000023,2015,8.3
+south tyneside,e08000023,2016,8.5
+south tyneside,e08000023,2017,7.7
+south tyneside,e08000023,2018,6.4
+south tyneside,e08000023,2019,7.0
+south tyneside,e08000023,2020,8.3
+south tyneside,e08000023,2021,6.6
+south tyneside,e08000023,2022,5.8
+south tyneside,e08000023,2023,6.7
+south tyneside,e08000023,2024,5.6
+sunderland,e08000024,2015,8.5
+sunderland,e08000024,2016,7.0
+sunderland,e08000024,2017,7.1
+sunderland,e08000024,2018,5.6
+sunderland,e08000024,2019,7.0
+sunderland,e08000024,2020,6.3
+sunderland,e08000024,2021,6.5
+sunderland,e08000024,2022,4.5
+sunderland,e08000024,2023,4.0
+sunderland,e08000024,2024,4.0
+blackburn with darwen,e06000008,2015,7.4
+blackburn with darwen,e06000008,2016,6.5
+blackburn with darwen,e06000008,2017,6.2
+blackburn with darwen,e06000008,2018,5.4
+blackburn with darwen,e06000008,2019,4.8
+blackburn with darwen,e06000008,2020,5.7
+blackburn with darwen,e06000008,2021,5.9
+blackburn with darwen,e06000008,2022,5.6
+blackburn with darwen,e06000008,2023,4.7
+blackburn with darwen,e06000008,2024,5.5
+blackpool,e06000009,2015,7.0
+blackpool,e06000009,2016,6.6
+blackpool,e06000009,2017,5.9
+blackpool,e06000009,2018,6.0
+blackpool,e06000009,2019,5.6
+blackpool,e06000009,2020,4.8
+blackpool,e06000009,2021,6.1
+blackpool,e06000009,2022,6.6
+blackpool,e06000009,2023,4.2
+blackpool,e06000009,2024,4.6
+cheshire east,e06000049,2015,3.8
+cheshire east,e06000049,2016,3.3
+cheshire east,e06000049,2017,3.3
+cheshire east,e06000049,2018,3.1
+cheshire east,e06000049,2019,2.9
+cheshire east,e06000049,2020,3.3
+cheshire east,e06000049,2021,3.9
+cheshire east,e06000049,2022,3.2
+cheshire east,e06000049,2023,2.5
+cheshire east,e06000049,2024,2.8
+cheshire west and chester,e06000050,2015,4.3
+cheshire west and chester,e06000050,2016,3.9
+cheshire west and chester,e06000050,2017,4.0
+cheshire west and chester,e06000050,2018,3.7
+cheshire west and chester,e06000050,2019,3.2
+cheshire west and chester,e06000050,2020,3.3
+cheshire west and chester,e06000050,2021,3.5
+cheshire west and chester,e06000050,2022,3.4
+cheshire west and chester,e06000050,2023,3.0
+cheshire west and chester,e06000050,2024,2.5
+halton,e06000006,2015,5.6
+halton,e06000006,2016,5.2
+halton,e06000006,2017,5.0
+halton,e06000006,2018,4.6
+halton,e06000006,2019,3.7
+halton,e06000006,2020,4.2
+halton,e06000006,2021,4.3
+halton,e06000006,2022,3.7
+halton,e06000006,2023,2.9
+halton,e06000006,2024,4.7
+warrington,e06000007,2015,4.8
+warrington,e06000007,2016,4.0
+warrington,e06000007,2017,3.7
+warrington,e06000007,2018,3.9
+warrington,e06000007,2019,3.4
+warrington,e06000007,2020,3.1
+warrington,e06000007,2021,3.6
+warrington,e06000007,2022,3.4
+warrington,e06000007,2023,2.4
+warrington,e06000007,2024,2.7
+allerdale,e07000026,2015,4.3
+allerdale,e07000026,2016,4.1
+allerdale,e07000026,2017,3.6
+allerdale,e07000026,2018,3.5
+allerdale,e07000026,2019,3.1
+allerdale,e07000026,2020,3.3
+allerdale,e07000026,2021,4.0
+allerdale,e07000026,2022,3.2
+allerdale,e07000026,2023,2.9
+allerdale,e07000026,2024,2.9
+barrow-in-furness,e07000027,2015,6.8
+barrow-in-furness,e07000027,2016,6.0
+barrow-in-furness,e07000027,2017,4.9
+barrow-in-furness,e07000027,2018,4.5
+barrow-in-furness,e07000027,2019,4.4
+barrow-in-furness,e07000027,2020,4.7
+barrow-in-furness,e07000027,2021,4.2
+barrow-in-furness,e07000027,2022,4.6
+barrow-in-furness,e07000027,2023,2.9
+barrow-in-furness,e07000027,2024,3.4
+carlisle,e07000028,2015,3.4
+carlisle,e07000028,2016,3.8
+carlisle,e07000028,2017,3.6
+carlisle,e07000028,2018,3.0
+carlisle,e07000028,2019,2.7
+carlisle,e07000028,2020,3.1
+carlisle,e07000028,2021,3.5
+carlisle,e07000028,2022,3.2
+carlisle,e07000028,2023,2.5
+carlisle,e07000028,2024,3.0
+copeland,e07000029,2015,5.4
+copeland,e07000029,2016,5.2
+copeland,e07000029,2017,4.8
+copeland,e07000029,2018,4.0
+copeland,e07000029,2019,3.4
+copeland,e07000029,2020,3.3
+copeland,e07000029,2021,3.1
+copeland,e07000029,2022,3.0
+copeland,e07000029,2023,2.5
+copeland,e07000029,2024,3.0
+eden,e07000030,2015,2.0
+eden,e07000030,2016,2.1
+eden,e07000030,2017,2.1
+eden,e07000030,2018,1.9
+eden,e07000030,2019,1.6
+eden,e07000030,2020,2.3
+eden,e07000030,2021,2.6
+eden,e07000030,2022,2.7
+eden,e07000030,2023,2.0
+eden,e07000030,2024,2.3
+south lakeland,e07000031,2015,2.2
+south lakeland,e07000031,2016,2.3
+south lakeland,e07000031,2017,2.0
+south lakeland,e07000031,2018,1.8
+south lakeland,e07000031,2019,1.7
+south lakeland,e07000031,2020,2.5
+south lakeland,e07000031,2021,3.0
+south lakeland,e07000031,2022,2.7
+south lakeland,e07000031,2023,2.0
+south lakeland,e07000031,2024,2.4
+bolton,e08000001,2015,6.7
+bolton,e08000001,2016,6.1
+bolton,e08000001,2017,5.5
+bolton,e08000001,2018,5.3
+bolton,e08000001,2019,4.9
+bolton,e08000001,2020,5.9
+bolton,e08000001,2021,5.7
+bolton,e08000001,2022,5.6
+bolton,e08000001,2023,4.9
+bolton,e08000001,2024,5.3
+bury,e08000002,2015,6.4
+bury,e08000002,2016,5.2
+bury,e08000002,2017,4.6
+bury,e08000002,2018,3.9
+bury,e08000002,2019,4.5
+bury,e08000002,2020,4.0
+bury,e08000002,2021,4.7
+bury,e08000002,2022,3.8
+bury,e08000002,2023,3.0
+bury,e08000002,2024,4.0
+manchester,e08000003,2015,8.3
+manchester,e08000003,2016,7.1
+manchester,e08000003,2017,6.7
+manchester,e08000003,2018,4.9
+manchester,e08000003,2019,5.5
+manchester,e08000003,2020,6.3
+manchester,e08000003,2021,6.9
+manchester,e08000003,2022,6.7
+manchester,e08000003,2023,4.7
+manchester,e08000003,2024,6.5
+oldham,e08000004,2015,8.1
+oldham,e08000004,2016,6.3
+oldham,e08000004,2017,6.0
+oldham,e08000004,2018,5.5
+oldham,e08000004,2019,4.8
+oldham,e08000004,2020,4.7
+oldham,e08000004,2021,6.1
+oldham,e08000004,2022,5.3
+oldham,e08000004,2023,4.3
+oldham,e08000004,2024,5.2
+rochdale,e08000005,2015,7.3
+rochdale,e08000005,2016,7.3
+rochdale,e08000005,2017,6.1
+rochdale,e08000005,2018,5.2
+rochdale,e08000005,2019,5.7
+rochdale,e08000005,2020,4.8
+rochdale,e08000005,2021,6.3
+rochdale,e08000005,2022,5.7
+rochdale,e08000005,2023,4.4
+rochdale,e08000005,2024,5.2
+salford,e08000006,2015,6.9
+salford,e08000006,2016,6.4
+salford,e08000006,2017,5.5
+salford,e08000006,2018,5.0
+salford,e08000006,2019,4.2
+salford,e08000006,2020,4.9
+salford,e08000006,2021,5.5
+salford,e08000006,2022,5.4
+salford,e08000006,2023,5.1
+salford,e08000006,2024,5.0
+stockport,e08000007,2015,5.1
+stockport,e08000007,2016,4.2
+stockport,e08000007,2017,4.2
+stockport,e08000007,2018,3.3
+stockport,e08000007,2019,3.4
+stockport,e08000007,2020,3.6
+stockport,e08000007,2021,4.5
+stockport,e08000007,2022,4.2
+stockport,e08000007,2023,3.2
+stockport,e08000007,2024,3.1
+tameside,e08000008,2015,5.5
+tameside,e08000008,2016,5.8
+tameside,e08000008,2017,5.3
+tameside,e08000008,2018,4.6
+tameside,e08000008,2019,4.2
+tameside,e08000008,2020,4.5
+tameside,e08000008,2021,4.4
+tameside,e08000008,2022,3.9
+tameside,e08000008,2023,3.3
+tameside,e08000008,2024,4.3
+trafford,e08000009,2015,4.7
+trafford,e08000009,2016,3.7
+trafford,e08000009,2017,3.7
+trafford,e08000009,2018,3.9
+trafford,e08000009,2019,3.5
+trafford,e08000009,2020,3.3
+trafford,e08000009,2021,4.2
+trafford,e08000009,2022,3.8
+trafford,e08000009,2023,3.2
+trafford,e08000009,2024,2.9
+wigan,e08000010,2015,5.1
+wigan,e08000010,2016,5.1
+wigan,e08000010,2017,4.4
+wigan,e08000010,2018,4.1
+wigan,e08000010,2019,3.4
+wigan,e08000010,2020,4.2
+wigan,e08000010,2021,4.4
+wigan,e08000010,2022,3.7
+wigan,e08000010,2023,3.2
+wigan,e08000010,2024,3.5
+burnley,e07000117,2015,6.7
+burnley,e07000117,2016,5.7
+burnley,e07000117,2017,5.5
+burnley,e07000117,2018,5.3
+burnley,e07000117,2019,5.8
+burnley,e07000117,2020,5.0
+burnley,e07000117,2021,6.2
+burnley,e07000117,2022,4.8
+burnley,e07000117,2023,4.1
+burnley,e07000117,2024,4.3
+chorley,e07000118,2015,3.5
+chorley,e07000118,2016,3.8
+chorley,e07000118,2017,3.5
+chorley,e07000118,2018,2.8
+chorley,e07000118,2019,3.0
+chorley,e07000118,2020,3.2
+chorley,e07000118,2021,4.3
+chorley,e07000118,2022,3.4
+chorley,e07000118,2023,2.9
+chorley,e07000118,2024,2.6
+fylde,e07000119,2015,3.3
+fylde,e07000119,2016,3.6
+fylde,e07000119,2017,3.2
+fylde,e07000119,2018,2.5
+fylde,e07000119,2019,2.2
+fylde,e07000119,2020,3.1
+fylde,e07000119,2021,4.0
+fylde,e07000119,2022,4.0
+fylde,e07000119,2023,2.5
+fylde,e07000119,2024,3.4
+hyndburn,e07000120,2015,6.9
+hyndburn,e07000120,2016,5.2
+hyndburn,e07000120,2017,5.2
+hyndburn,e07000120,2018,4.6
+hyndburn,e07000120,2019,4.2
+hyndburn,e07000120,2020,4.4
+hyndburn,e07000120,2021,5.2
+hyndburn,e07000120,2022,5.0
+hyndburn,e07000120,2023,3.9
+hyndburn,e07000120,2024,4.9
+lancaster,e07000121,2015,4.9
+lancaster,e07000121,2016,4.5
+lancaster,e07000121,2017,4.7
+lancaster,e07000121,2018,4.6
+lancaster,e07000121,2019,4.2
+lancaster,e07000121,2020,3.8
+lancaster,e07000121,2021,5.1
+lancaster,e07000121,2022,4.3
+lancaster,e07000121,2023,3.5
+lancaster,e07000121,2024,3.8
+pendle,e07000122,2015,5.5
+pendle,e07000122,2016,4.6
+pendle,e07000122,2017,4.6
+pendle,e07000122,2018,4.7
+pendle,e07000122,2019,3.7
+pendle,e07000122,2020,4.7
+pendle,e07000122,2021,4.8
+pendle,e07000122,2022,5.6
+pendle,e07000122,2023,6.7
+pendle,e07000122,2024,7.4
+preston,e07000123,2015,5.8
+preston,e07000123,2016,5.5
+preston,e07000123,2017,5.1
+preston,e07000123,2018,4.2
+preston,e07000123,2019,3.8
+preston,e07000123,2020,4.2
+preston,e07000123,2021,5.4
+preston,e07000123,2022,5.3
+preston,e07000123,2023,4.0
+preston,e07000123,2024,5.1
+ribble valley,e07000124,2015,3.0
+ribble valley,e07000124,2016,2.5
+ribble valley,e07000124,2017,2.4
+ribble valley,e07000124,2018,2.6
+ribble valley,e07000124,2019,2.0
+ribble valley,e07000124,2020,2.2
+ribble valley,e07000124,2021,2.9
+ribble valley,e07000124,2022,2.7
+ribble valley,e07000124,2023,1.9
+ribble valley,e07000124,2024,2.1
+rossendale,e07000125,2015,4.9
+rossendale,e07000125,2016,5.1
+rossendale,e07000125,2017,4.0
+rossendale,e07000125,2018,4.1
+rossendale,e07000125,2019,3.1
+rossendale,e07000125,2020,3.7
+rossendale,e07000125,2021,3.5
+rossendale,e07000125,2022,3.9
+rossendale,e07000125,2023,2.9
+rossendale,e07000125,2024,3.5
+south ribble,e07000126,2015,4.5
+south ribble,e07000126,2016,3.2
+south ribble,e07000126,2017,3.3
+south ribble,e07000126,2018,3.4
+south ribble,e07000126,2019,2.8
+south ribble,e07000126,2020,2.9
+south ribble,e07000126,2021,3.2
+south ribble,e07000126,2022,3.3
+south ribble,e07000126,2023,2.3
+south ribble,e07000126,2024,3.1
+west lancashire,e07000127,2015,5.5
+west lancashire,e07000127,2016,4.4
+west lancashire,e07000127,2017,4.6
+west lancashire,e07000127,2018,4.7
+west lancashire,e07000127,2019,3.9
+west lancashire,e07000127,2020,3.3
+west lancashire,e07000127,2021,4.1
+west lancashire,e07000127,2022,4.6
+west lancashire,e07000127,2023,3.9
+west lancashire,e07000127,2024,3.3
+wyre,e07000128,2015,3.8
+wyre,e07000128,2016,4.0
+wyre,e07000128,2017,3.9
+wyre,e07000128,2018,3.2
+wyre,e07000128,2019,2.6
+wyre,e07000128,2020,3.7
+wyre,e07000128,2021,3.9
+wyre,e07000128,2022,4.4
+wyre,e07000128,2023,3.4
+wyre,e07000128,2024,2.9
+knowsley,e08000011,2015,7.4
+knowsley,e08000011,2016,5.9
+knowsley,e08000011,2017,4.6
+knowsley,e08000011,2018,3.6
+knowsley,e08000011,2019,3.8
+knowsley,e08000011,2020,3.5
+knowsley,e08000011,2021,4.3
+knowsley,e08000011,2022,3.2
+knowsley,e08000011,2023,3.6
+knowsley,e08000011,2024,4.8
+liverpool,e08000012,2015,9.3
+liverpool,e08000012,2016,6.5
+liverpool,e08000012,2017,5.8
+liverpool,e08000012,2018,4.5
+liverpool,e08000012,2019,4.2
+liverpool,e08000012,2020,4.2
+liverpool,e08000012,2021,5.3
+liverpool,e08000012,2022,3.8
+liverpool,e08000012,2023,5.7
+liverpool,e08000012,2024,5.7
+sefton,e08000014,2015,5.3
+sefton,e08000014,2016,4.9
+sefton,e08000014,2017,4.6
+sefton,e08000014,2018,3.6
+sefton,e08000014,2019,3.0
+sefton,e08000014,2020,3.2
+sefton,e08000014,2021,4.0
+sefton,e08000014,2022,3.3
+sefton,e08000014,2023,3.0
+sefton,e08000014,2024,4.1
+st. helens,e08000013,2015,7.0
+st. helens,e08000013,2016,5.2
+st. helens,e08000013,2017,4.3
+st. helens,e08000013,2018,3.8
+st. helens,e08000013,2019,3.8
+st. helens,e08000013,2020,3.8
+st. helens,e08000013,2021,4.1
+st. helens,e08000013,2022,2.7
+st. helens,e08000013,2023,3.1
+st. helens,e08000013,2024,3.9
+wirral,e08000015,2015,5.5
+wirral,e08000015,2016,4.4
+wirral,e08000015,2017,4.0
+wirral,e08000015,2018,3.2
+wirral,e08000015,2019,3.7
+wirral,e08000015,2020,3.2
+wirral,e08000015,2021,3.9
+wirral,e08000015,2022,2.9
+wirral,e08000015,2023,2.6
+wirral,e08000015,2024,4.0
+east riding of yorkshire,e06000011,2015,4.3
+east riding of yorkshire,e06000011,2016,4.0
+east riding of yorkshire,e06000011,2017,3.5
+east riding of yorkshire,e06000011,2018,3.5
+east riding of yorkshire,e06000011,2019,3.3
+east riding of yorkshire,e06000011,2020,3.3
+east riding of yorkshire,e06000011,2021,3.8
+east riding of yorkshire,e06000011,2022,3.0
+east riding of yorkshire,e06000011,2023,2.3
+east riding of yorkshire,e06000011,2024,2.0
+"kingston upon hull, city of",e06000010,2015,9.2
+"kingston upon hull, city of",e06000010,2016,8.2
+"kingston upon hull, city of",e06000010,2017,6.6
+"kingston upon hull, city of",e06000010,2018,6.2
+"kingston upon hull, city of",e06000010,2019,6.6
+"kingston upon hull, city of",e06000010,2020,4.9
+"kingston upon hull, city of",e06000010,2021,5.5
+"kingston upon hull, city of",e06000010,2022,4.7
+"kingston upon hull, city of",e06000010,2023,3.5
+"kingston upon hull, city of",e06000010,2024,3.3
+north east lincolnshire,e06000012,2015,7.7
+north east lincolnshire,e06000012,2016,6.7
+north east lincolnshire,e06000012,2017,6.0
+north east lincolnshire,e06000012,2018,5.3
+north east lincolnshire,e06000012,2019,5.6
+north east lincolnshire,e06000012,2020,4.5
+north east lincolnshire,e06000012,2021,4.8
+north east lincolnshire,e06000012,2022,3.5
+north east lincolnshire,e06000012,2023,3.5
+north east lincolnshire,e06000012,2024,3.3
+north lincolnshire,e06000013,2015,5.1
+north lincolnshire,e06000013,2016,6.1
+north lincolnshire,e06000013,2017,4.4
+north lincolnshire,e06000013,2018,5.4
+north lincolnshire,e06000013,2019,4.6
+north lincolnshire,e06000013,2020,4.3
+north lincolnshire,e06000013,2021,4.4
+north lincolnshire,e06000013,2022,2.7
+north lincolnshire,e06000013,2023,3.1
+north lincolnshire,e06000013,2024,2.9
+york,e06000014,2015,3.6
+york,e06000014,2016,3.2
+york,e06000014,2017,3.1
+york,e06000014,2018,3.1
+york,e06000014,2019,2.9
+york,e06000014,2020,2.9
+york,e06000014,2021,3.2
+york,e06000014,2022,2.1
+york,e06000014,2023,2.3
+york,e06000014,2024,1.9
+craven,e07000163,2015,3.1
+craven,e07000163,2016,3.1
+craven,e07000163,2017,3.6
+craven,e07000163,2018,3.2
+craven,e07000163,2019,2.7
+craven,e07000163,2020,2.5
+craven,e07000163,2021,2.3
+craven,e07000163,2022,2.8
+craven,e07000163,2023,2.6
+craven,e07000163,2024,1.5
+hambleton,e07000164,2015,2.9
+hambleton,e07000164,2016,2.8
+hambleton,e07000164,2017,3.2
+hambleton,e07000164,2018,2.9
+hambleton,e07000164,2019,2.8
+hambleton,e07000164,2020,2.6
+hambleton,e07000164,2021,3.4
+hambleton,e07000164,2022,2.3
+hambleton,e07000164,2023,1.8
+hambleton,e07000164,2024,1.5
+harrogate,e07000165,2015,2.7
+harrogate,e07000165,2016,2.6
+harrogate,e07000165,2017,3.3
+harrogate,e07000165,2018,3.4
+harrogate,e07000165,2019,2.3
+harrogate,e07000165,2020,2.7
+harrogate,e07000165,2021,3.1
+harrogate,e07000165,2022,2.5
+harrogate,e07000165,2023,2.0
+harrogate,e07000165,2024,2.0
+richmondshire,e07000166,2015,2.5
+richmondshire,e07000166,2016,2.6
+richmondshire,e07000166,2017,3.2
+richmondshire,e07000166,2018,3.6
+richmondshire,e07000166,2019,2.8
+richmondshire,e07000166,2020,2.8
+richmondshire,e07000166,2021,3.0
+richmondshire,e07000166,2022,2.2
+richmondshire,e07000166,2023,2.5
+richmondshire,e07000166,2024,2.1
+ryedale,e07000167,2015,3.0
+ryedale,e07000167,2016,3.0
+ryedale,e07000167,2017,3.2
+ryedale,e07000167,2018,3.3
+ryedale,e07000167,2019,2.5
+ryedale,e07000167,2020,2.9
+ryedale,e07000167,2021,3.5
+ryedale,e07000167,2022,3.0
+ryedale,e07000167,2023,2.1
+ryedale,e07000167,2024,1.5
+scarborough,e07000168,2015,4.2
+scarborough,e07000168,2016,3.9
+scarborough,e07000168,2017,3.7
+scarborough,e07000168,2018,3.4
+scarborough,e07000168,2019,3.6
+scarborough,e07000168,2020,3.4
+scarborough,e07000168,2021,4.4
+scarborough,e07000168,2022,3.8
+scarborough,e07000168,2023,2.9
+scarborough,e07000168,2024,2.2
+selby,e07000169,2015,4.0
+selby,e07000169,2016,3.8
+selby,e07000169,2017,3.7
+selby,e07000169,2018,2.9
+selby,e07000169,2019,3.2
+selby,e07000169,2020,2.8
+selby,e07000169,2021,3.7
+selby,e07000169,2022,2.3
+selby,e07000169,2023,2.3
+selby,e07000169,2024,1.9
+barnsley,e08000016,2015,6.2
+barnsley,e08000016,2016,5.7
+barnsley,e08000016,2017,5.0
+barnsley,e08000016,2018,5.4
+barnsley,e08000016,2019,4.2
+barnsley,e08000016,2020,4.8
+barnsley,e08000016,2021,4.8
+barnsley,e08000016,2022,3.5
+barnsley,e08000016,2023,3.0
+barnsley,e08000016,2024,2.5
+doncaster,e08000017,2015,7.4
+doncaster,e08000017,2016,6.1
+doncaster,e08000017,2017,6.0
+doncaster,e08000017,2018,5.6
+doncaster,e08000017,2019,5.6
+doncaster,e08000017,2020,4.8
+doncaster,e08000017,2021,5.3
+doncaster,e08000017,2022,3.7
+doncaster,e08000017,2023,3.7
+doncaster,e08000017,2024,3.1
+rotherham,e08000018,2015,6.5
+rotherham,e08000018,2016,6.9
+rotherham,e08000018,2017,4.9
+rotherham,e08000018,2018,4.9
+rotherham,e08000018,2019,5.0
+rotherham,e08000018,2020,4.3
+rotherham,e08000018,2021,5.2
+rotherham,e08000018,2022,3.9
+rotherham,e08000018,2023,3.7
+rotherham,e08000018,2024,3.3
+sheffield,e08000019,2015,6.9
+sheffield,e08000019,2016,6.7
+sheffield,e08000019,2017,6.0
+sheffield,e08000019,2018,5.1
+sheffield,e08000019,2019,4.2
+sheffield,e08000019,2020,4.2
+sheffield,e08000019,2021,5.5
+sheffield,e08000019,2022,4.7
+sheffield,e08000019,2023,3.6
+sheffield,e08000019,2024,3.1
+bradford,e08000032,2015,8.7
+bradford,e08000032,2016,7.1
+bradford,e08000032,2017,6.0
+bradford,e08000032,2018,5.4
+bradford,e08000032,2019,5.9
+bradford,e08000032,2020,5.8
+bradford,e08000032,2021,5.9
+bradford,e08000032,2022,4.9
+bradford,e08000032,2023,5.4
+bradford,e08000032,2024,4.2
+calderdale,e08000033,2015,5.2
+calderdale,e08000033,2016,4.7
+calderdale,e08000033,2017,3.6
+calderdale,e08000033,2018,4.5
+calderdale,e08000033,2019,3.9
+calderdale,e08000033,2020,4.2
+calderdale,e08000033,2021,4.9
+calderdale,e08000033,2022,3.9
+calderdale,e08000033,2023,3.3
+calderdale,e08000033,2024,2.9
+kirklees,e08000034,2015,5.6
+kirklees,e08000034,2016,5.8
+kirklees,e08000034,2017,4.8
+kirklees,e08000034,2018,4.9
+kirklees,e08000034,2019,4.1
+kirklees,e08000034,2020,3.9
+kirklees,e08000034,2021,5.4
+kirklees,e08000034,2022,4.1
+kirklees,e08000034,2023,4.0
+kirklees,e08000034,2024,3.3
+leeds,e08000035,2015,6.2
+leeds,e08000035,2016,5.5
+leeds,e08000035,2017,4.7
+leeds,e08000035,2018,4.3
+leeds,e08000035,2019,4.1
+leeds,e08000035,2020,4.0
+leeds,e08000035,2021,5.5
+leeds,e08000035,2022,3.8
+leeds,e08000035,2023,3.8
+leeds,e08000035,2024,3.2
+wakefield,e08000036,2015,6.3
+wakefield,e08000036,2016,5.4
+wakefield,e08000036,2017,4.9
+wakefield,e08000036,2018,5.1
+wakefield,e08000036,2019,4.3
+wakefield,e08000036,2020,4.4
+wakefield,e08000036,2021,4.4
+wakefield,e08000036,2022,3.4
+wakefield,e08000036,2023,3.2
+wakefield,e08000036,2024,2.5
+derby,e06000015,2015,5.9
+derby,e06000015,2016,4.5
+derby,e06000015,2017,4.5
+derby,e06000015,2018,4.5
+derby,e06000015,2019,4.7
+derby,e06000015,2020,4.9
+derby,e06000015,2021,6.0
+derby,e06000015,2022,3.5
+derby,e06000015,2023,4.1
+derby,e06000015,2024,5.5
+leicester,e06000016,2015,7.7
+leicester,e06000016,2016,6.3
+leicester,e06000016,2017,5.4
+leicester,e06000016,2018,5.3
+leicester,e06000016,2019,5.4
+leicester,e06000016,2020,5.2
+leicester,e06000016,2021,7.2
+leicester,e06000016,2022,5.0
+leicester,e06000016,2023,6.1
+leicester,e06000016,2024,7.2
+nottingham,e06000018,2015,8.9
+nottingham,e06000018,2016,7.7
+nottingham,e06000018,2017,7.4
+nottingham,e06000018,2018,7.4
+nottingham,e06000018,2019,6.9
+nottingham,e06000018,2020,6.6
+nottingham,e06000018,2021,6.8
+nottingham,e06000018,2022,4.2
+nottingham,e06000018,2023,5.9
+nottingham,e06000018,2024,6.6
+rutland,e06000017,2015,2.7
+rutland,e06000017,2016,2.4
+rutland,e06000017,2017,2.3
+rutland,e06000017,2018,2.9
+rutland,e06000017,2019,3.0
+rutland,e06000017,2020,3.6
+rutland,e06000017,2021,4.1
+rutland,e06000017,2022,2.1
+rutland,e06000017,2023,2.6
+rutland,e06000017,2024,3.6
+amber valley,e07000032,2015,3.6
+amber valley,e07000032,2016,3.6
+amber valley,e07000032,2017,3.2
+amber valley,e07000032,2018,3.2
+amber valley,e07000032,2019,3.0
+amber valley,e07000032,2020,3.9
+amber valley,e07000032,2021,3.7
+amber valley,e07000032,2022,2.5
+amber valley,e07000032,2023,2.9
+amber valley,e07000032,2024,3.7
+bolsover,e07000033,2015,4.6
+bolsover,e07000033,2016,4.1
+bolsover,e07000033,2017,4.0
+bolsover,e07000033,2018,4.3
+bolsover,e07000033,2019,3.9
+bolsover,e07000033,2020,4.5
+bolsover,e07000033,2021,4.1
+bolsover,e07000033,2022,2.7
+bolsover,e07000033,2023,3.4
+bolsover,e07000033,2024,3.8
+chesterfield,e07000034,2015,5.5
+chesterfield,e07000034,2016,5.0
+chesterfield,e07000034,2017,4.8
+chesterfield,e07000034,2018,5.2
+chesterfield,e07000034,2019,6.0
+chesterfield,e07000034,2020,5.0
+chesterfield,e07000034,2021,5.2
+chesterfield,e07000034,2022,2.7
+chesterfield,e07000034,2023,2.9
+chesterfield,e07000034,2024,3.4
+derbyshire dales,e07000035,2015,2.3
+derbyshire dales,e07000035,2016,2.3
+derbyshire dales,e07000035,2017,2.5
+derbyshire dales,e07000035,2018,2.5
+derbyshire dales,e07000035,2019,2.5
+derbyshire dales,e07000035,2020,3.2
+derbyshire dales,e07000035,2021,4.0
+derbyshire dales,e07000035,2022,2.5
+derbyshire dales,e07000035,2023,2.4
+derbyshire dales,e07000035,2024,3.2
+erewash,e07000036,2015,4.8
+erewash,e07000036,2016,3.6
+erewash,e07000036,2017,3.4
+erewash,e07000036,2018,4.5
+erewash,e07000036,2019,4.2
+erewash,e07000036,2020,3.7
+erewash,e07000036,2021,4.1
+erewash,e07000036,2022,2.5
+erewash,e07000036,2023,3.2
+erewash,e07000036,2024,3.4
+high peak,e07000037,2015,4.1
+high peak,e07000037,2016,3.3
+high peak,e07000037,2017,3.4
+high peak,e07000037,2018,3.6
+high peak,e07000037,2019,3.7
+high peak,e07000037,2020,3.6
+high peak,e07000037,2021,4.4
+high peak,e07000037,2022,2.3
+high peak,e07000037,2023,2.6
+high peak,e07000037,2024,3.2
+north east derbyshire,e07000038,2015,4.2
+north east derbyshire,e07000038,2016,3.7
+north east derbyshire,e07000038,2017,3.4
+north east derbyshire,e07000038,2018,3.8
+north east derbyshire,e07000038,2019,3.2
+north east derbyshire,e07000038,2020,4.4
+north east derbyshire,e07000038,2021,3.4
+north east derbyshire,e07000038,2022,2.3
+north east derbyshire,e07000038,2023,3.3
+north east derbyshire,e07000038,2024,4.1
+south derbyshire,e07000039,2015,3.2
+south derbyshire,e07000039,2016,2.5
+south derbyshire,e07000039,2017,2.9
+south derbyshire,e07000039,2018,2.9
+south derbyshire,e07000039,2019,2.7
+south derbyshire,e07000039,2020,3.0
+south derbyshire,e07000039,2021,4.2
+south derbyshire,e07000039,2022,2.6
+south derbyshire,e07000039,2023,3.3
+south derbyshire,e07000039,2024,3.1
+blaby,e07000129,2015,3.3
+blaby,e07000129,2016,2.9
+blaby,e07000129,2017,3.0
+blaby,e07000129,2018,2.9
+blaby,e07000129,2019,3.2
+blaby,e07000129,2020,3.0
+blaby,e07000129,2021,4.7
+blaby,e07000129,2022,1.8
+blaby,e07000129,2023,2.3
+blaby,e07000129,2024,2.8
+charnwood,e07000130,2015,4.0
+charnwood,e07000130,2016,3.5
+charnwood,e07000130,2017,3.6
+charnwood,e07000130,2018,3.9
+charnwood,e07000130,2019,3.5
+charnwood,e07000130,2020,3.2
+charnwood,e07000130,2021,3.8
+charnwood,e07000130,2022,2.4
+charnwood,e07000130,2023,2.7
+charnwood,e07000130,2024,3.0
+harborough,e07000131,2015,2.3
+harborough,e07000131,2016,2.2
+harborough,e07000131,2017,2.7
+harborough,e07000131,2018,2.8
+harborough,e07000131,2019,2.9
+harborough,e07000131,2020,3.4
+harborough,e07000131,2021,3.5
+harborough,e07000131,2022,2.1
+harborough,e07000131,2023,2.3
+harborough,e07000131,2024,3.1
+hinckley and bosworth,e07000132,2015,3.4
+hinckley and bosworth,e07000132,2016,3.2
+hinckley and bosworth,e07000132,2017,3.2
+hinckley and bosworth,e07000132,2018,3.9
+hinckley and bosworth,e07000132,2019,3.1
+hinckley and bosworth,e07000132,2020,3.7
+hinckley and bosworth,e07000132,2021,4.0
+hinckley and bosworth,e07000132,2022,2.3
+hinckley and bosworth,e07000132,2023,2.9
+hinckley and bosworth,e07000132,2024,2.5
+melton,e07000133,2015,3.8
+melton,e07000133,2016,3.5
+melton,e07000133,2017,3.9
+melton,e07000133,2018,3.8
+melton,e07000133,2019,4.2
+melton,e07000133,2020,3.6
+melton,e07000133,2021,4.2
+melton,e07000133,2022,2.8
+melton,e07000133,2023,3.3
+melton,e07000133,2024,4.1
+north west leicestershire,e07000134,2015,3.9
+north west leicestershire,e07000134,2016,3.0
+north west leicestershire,e07000134,2017,3.1
+north west leicestershire,e07000134,2018,3.7
+north west leicestershire,e07000134,2019,3.7
+north west leicestershire,e07000134,2020,4.2
+north west leicestershire,e07000134,2021,4.5
+north west leicestershire,e07000134,2022,2.6
+north west leicestershire,e07000134,2023,2.5
+north west leicestershire,e07000134,2024,2.8
+oadby and wigston,e07000135,2015,4.6
+oadby and wigston,e07000135,2016,3.7
+oadby and wigston,e07000135,2017,3.5
+oadby and wigston,e07000135,2018,3.1
+oadby and wigston,e07000135,2019,3.2
+oadby and wigston,e07000135,2020,3.0
+oadby and wigston,e07000135,2021,4.5
+oadby and wigston,e07000135,2022,2.9
+oadby and wigston,e07000135,2023,3.4
+oadby and wigston,e07000135,2024,3.6
+boston,e07000136,2015,5.0
+boston,e07000136,2016,4.1
+boston,e07000136,2017,4.5
+boston,e07000136,2018,3.5
+boston,e07000136,2019,4.5
+boston,e07000136,2020,3.9
+boston,e07000136,2021,5.8
+boston,e07000136,2022,3.6
+boston,e07000136,2023,4.1
+boston,e07000136,2024,3.8
+east lindsey,e07000137,2015,5.0
+east lindsey,e07000137,2016,4.7
+east lindsey,e07000137,2017,4.2
+east lindsey,e07000137,2018,4.5
+east lindsey,e07000137,2019,4.9
+east lindsey,e07000137,2020,4.9
+east lindsey,e07000137,2021,5.4
+east lindsey,e07000137,2022,5.1
+east lindsey,e07000137,2023,3.1
+east lindsey,e07000137,2024,4.4
+lincoln,e07000138,2015,6.4
+lincoln,e07000138,2016,6.4
+lincoln,e07000138,2017,5.6
+lincoln,e07000138,2018,6.4
+lincoln,e07000138,2019,5.8
+lincoln,e07000138,2020,6.3
+lincoln,e07000138,2021,6.8
+lincoln,e07000138,2022,3.5
+lincoln,e07000138,2023,5.0
+lincoln,e07000138,2024,4.5
+north kesteven,e07000139,2015,3.4
+north kesteven,e07000139,2016,3.4
+north kesteven,e07000139,2017,3.5
+north kesteven,e07000139,2018,3.3
+north kesteven,e07000139,2019,3.0
+north kesteven,e07000139,2020,3.5
+north kesteven,e07000139,2021,3.8
+north kesteven,e07000139,2022,2.3
+north kesteven,e07000139,2023,2.6
+north kesteven,e07000139,2024,2.2
+south holland,e07000140,2015,4.8
+south holland,e07000140,2016,3.4
+south holland,e07000140,2017,3.9
+south holland,e07000140,2018,3.6
+south holland,e07000140,2019,3.7
+south holland,e07000140,2020,4.2
+south holland,e07000140,2021,4.3
+south holland,e07000140,2022,2.2
+south holland,e07000140,2023,2.5
+south holland,e07000140,2024,3.9
+south kesteven,e07000141,2015,4.2
+south kesteven,e07000141,2016,3.7
+south kesteven,e07000141,2017,3.3
+south kesteven,e07000141,2018,3.4
+south kesteven,e07000141,2019,3.6
+south kesteven,e07000141,2020,3.7
+south kesteven,e07000141,2021,4.1
+south kesteven,e07000141,2022,2.3
+south kesteven,e07000141,2023,3.2
+south kesteven,e07000141,2024,4.3
+west lindsey,e07000142,2015,5.8
+west lindsey,e07000142,2016,4.1
+west lindsey,e07000142,2017,4.8
+west lindsey,e07000142,2018,4.4
+west lindsey,e07000142,2019,4.3
+west lindsey,e07000142,2020,4.7
+west lindsey,e07000142,2021,5.0
+west lindsey,e07000142,2022,2.2
+west lindsey,e07000142,2023,3.6
+west lindsey,e07000142,2024,5.2
+ashfield,e07000170,2015,5.1
+ashfield,e07000170,2016,4.6
+ashfield,e07000170,2017,4.6
+ashfield,e07000170,2018,4.6
+ashfield,e07000170,2019,3.9
+ashfield,e07000170,2020,4.7
+ashfield,e07000170,2021,4.4
+ashfield,e07000170,2022,2.7
+ashfield,e07000170,2023,5.2
+ashfield,e07000170,2024,4.8
+bassetlaw,e07000171,2015,5.3
+bassetlaw,e07000171,2016,4.5
+bassetlaw,e07000171,2017,4.7
+bassetlaw,e07000171,2018,4.5
+bassetlaw,e07000171,2019,4.1
+bassetlaw,e07000171,2020,4.6
+bassetlaw,e07000171,2021,4.4
+bassetlaw,e07000171,2022,2.5
+bassetlaw,e07000171,2023,2.8
+bassetlaw,e07000171,2024,4.2
+broxtowe,e07000172,2015,4.8
+broxtowe,e07000172,2016,3.6
+broxtowe,e07000172,2017,3.9
+broxtowe,e07000172,2018,4.5
+broxtowe,e07000172,2019,3.7
+broxtowe,e07000172,2020,3.9
+broxtowe,e07000172,2021,4.4
+broxtowe,e07000172,2022,3.5
+broxtowe,e07000172,2023,3.2
+broxtowe,e07000172,2024,4.0
+gedling,e07000173,2015,4.9
+gedling,e07000173,2016,4.3
+gedling,e07000173,2017,3.7
+gedling,e07000173,2018,4.0
+gedling,e07000173,2019,4.3
+gedling,e07000173,2020,3.8
+gedling,e07000173,2021,5.7
+gedling,e07000173,2022,3.4
+gedling,e07000173,2023,3.9
+gedling,e07000173,2024,3.8
+mansfield,e07000174,2015,5.6
+mansfield,e07000174,2016,5.2
+mansfield,e07000174,2017,5.1
+mansfield,e07000174,2018,4.4
+mansfield,e07000174,2019,4.9
+mansfield,e07000174,2020,5.0
+mansfield,e07000174,2021,6.4
+mansfield,e07000174,2022,3.7
+mansfield,e07000174,2023,3.3
+mansfield,e07000174,2024,4.7
+newark and sherwood,e07000175,2015,5.1
+newark and sherwood,e07000175,2016,4.2
+newark and sherwood,e07000175,2017,4.0
+newark and sherwood,e07000175,2018,3.8
+newark and sherwood,e07000175,2019,4.4
+newark and sherwood,e07000175,2020,4.6
+newark and sherwood,e07000175,2021,5.4
+newark and sherwood,e07000175,2022,3.3
+newark and sherwood,e07000175,2023,3.1
+newark and sherwood,e07000175,2024,3.3
+rushcliffe,e07000176,2015,3.6
+rushcliffe,e07000176,2016,3.1
+rushcliffe,e07000176,2017,3.3
+rushcliffe,e07000176,2018,3.2
+rushcliffe,e07000176,2019,2.6
+rushcliffe,e07000176,2020,3.6
+rushcliffe,e07000176,2021,3.5
+rushcliffe,e07000176,2022,1.8
+rushcliffe,e07000176,2023,2.5
+rushcliffe,e07000176,2024,2.6
+north northamptonshire,e06000061,2015,-
+north northamptonshire,e06000061,2016,-
+north northamptonshire,e06000061,2017,-
+north northamptonshire,e06000061,2018,-
+north northamptonshire,e06000061,2019,-
+north northamptonshire,e06000061,2020,3.1
+north northamptonshire,e06000061,2021,-
+north northamptonshire,e06000061,2022,2.8
+north northamptonshire,e06000061,2023,3.5
+north northamptonshire,e06000061,2024,3.1
+west northamptonshire,e06000062,2015,-
+west northamptonshire,e06000062,2016,-
+west northamptonshire,e06000062,2017,-
+west northamptonshire,e06000062,2018,-
+west northamptonshire,e06000062,2019,-
+west northamptonshire,e06000062,2020,3.5
+west northamptonshire,e06000062,2021,-
+west northamptonshire,e06000062,2022,3.1
+west northamptonshire,e06000062,2023,2.3
+west northamptonshire,e06000062,2024,3.2
+"herefordshire, county of",e06000019,2015,3.2
+"herefordshire, county of",e06000019,2016,3.6
+"herefordshire, county of",e06000019,2017,3.4
+"herefordshire, county of",e06000019,2018,2.7
+"herefordshire, county of",e06000019,2019,2.2
+"herefordshire, county of",e06000019,2020,3.2
+"herefordshire, county of",e06000019,2021,3.3
+"herefordshire, county of",e06000019,2022,3.1
+"herefordshire, county of",e06000019,2023,2.7
+"herefordshire, county of",e06000019,2024,2.5
+shropshire,e06000051,2015,3.6
+shropshire,e06000051,2016,3.3
+shropshire,e06000051,2017,3.5
+shropshire,e06000051,2018,2.8
+shropshire,e06000051,2019,2.9
+shropshire,e06000051,2020,3.5
+shropshire,e06000051,2021,3.6
+shropshire,e06000051,2022,3.5
+shropshire,e06000051,2023,3.1
+shropshire,e06000051,2024,2.6
+stoke-on-trent,e06000021,2015,5.8
+stoke-on-trent,e06000021,2016,6.2
+stoke-on-trent,e06000021,2017,5.6
+stoke-on-trent,e06000021,2018,5.5
+stoke-on-trent,e06000021,2019,4.9
+stoke-on-trent,e06000021,2020,5.1
+stoke-on-trent,e06000021,2021,4.6
+stoke-on-trent,e06000021,2022,4.3
+stoke-on-trent,e06000021,2023,4.3
+stoke-on-trent,e06000021,2024,4.7
+telford and wrekin,e06000020,2015,5.0
+telford and wrekin,e06000020,2016,4.8
+telford and wrekin,e06000020,2017,4.5
+telford and wrekin,e06000020,2018,4.2
+telford and wrekin,e06000020,2019,3.6
+telford and wrekin,e06000020,2020,4.9
+telford and wrekin,e06000020,2021,4.3
+telford and wrekin,e06000020,2022,4.2
+telford and wrekin,e06000020,2023,3.3
+telford and wrekin,e06000020,2024,3.5
+cannock chase,e07000192,2015,3.6
+cannock chase,e07000192,2016,4.0
+cannock chase,e07000192,2017,4.1
+cannock chase,e07000192,2018,3.6
+cannock chase,e07000192,2019,2.8
+cannock chase,e07000192,2020,3.6
+cannock chase,e07000192,2021,3.8
+cannock chase,e07000192,2022,3.6
+cannock chase,e07000192,2023,3.6
+cannock chase,e07000192,2024,2.9
+east staffordshire,e07000193,2015,3.2
+east staffordshire,e07000193,2016,4.0
+east staffordshire,e07000193,2017,3.4
+east staffordshire,e07000193,2018,3.0
+east staffordshire,e07000193,2019,2.4
+east staffordshire,e07000193,2020,3.9
+east staffordshire,e07000193,2021,3.7
+east staffordshire,e07000193,2022,3.6
+east staffordshire,e07000193,2023,3.0
+east staffordshire,e07000193,2024,3.0
+lichfield,e07000194,2015,2.9
+lichfield,e07000194,2016,2.7
+lichfield,e07000194,2017,2.9
+lichfield,e07000194,2018,2.7
+lichfield,e07000194,2019,2.8
+lichfield,e07000194,2020,3.8
+lichfield,e07000194,2021,3.9
+lichfield,e07000194,2022,3.0
+lichfield,e07000194,2023,3.6
+lichfield,e07000194,2024,3.3
+newcastle-under-lyme,e07000195,2015,3.9
+newcastle-under-lyme,e07000195,2016,4.0
+newcastle-under-lyme,e07000195,2017,3.7
+newcastle-under-lyme,e07000195,2018,3.4
+newcastle-under-lyme,e07000195,2019,3.1
+newcastle-under-lyme,e07000195,2020,6.0
+newcastle-under-lyme,e07000195,2021,3.8
+newcastle-under-lyme,e07000195,2022,3.7
+newcastle-under-lyme,e07000195,2023,2.9
+newcastle-under-lyme,e07000195,2024,3.0
+south staffordshire,e07000196,2015,4.1
+south staffordshire,e07000196,2016,3.5
+south staffordshire,e07000196,2017,3.4
+south staffordshire,e07000196,2018,2.8
+south staffordshire,e07000196,2019,2.8
+south staffordshire,e07000196,2020,3.7
+south staffordshire,e07000196,2021,3.9
+south staffordshire,e07000196,2022,3.2
+south staffordshire,e07000196,2023,2.7
+south staffordshire,e07000196,2024,2.5
+stafford,e07000197,2015,3.6
+stafford,e07000197,2016,3.2
+stafford,e07000197,2017,3.6
+stafford,e07000197,2018,2.7
+stafford,e07000197,2019,2.9
+stafford,e07000197,2020,3.3
+stafford,e07000197,2021,3.8
+stafford,e07000197,2022,3.1
+stafford,e07000197,2023,3.3
+stafford,e07000197,2024,2.5
+staffordshire moorlands,e07000198,2015,2.7
+staffordshire moorlands,e07000198,2016,2.7
+staffordshire moorlands,e07000198,2017,3.2
+staffordshire moorlands,e07000198,2018,2.8
+staffordshire moorlands,e07000198,2019,2.7
+staffordshire moorlands,e07000198,2020,2.8
+staffordshire moorlands,e07000198,2021,2.9
+staffordshire moorlands,e07000198,2022,3.3
+staffordshire moorlands,e07000198,2023,2.6
+staffordshire moorlands,e07000198,2024,2.5
+tamworth,e07000199,2015,2.8
+tamworth,e07000199,2016,3.4
+tamworth,e07000199,2017,3.8
+tamworth,e07000199,2018,3.8
+tamworth,e07000199,2019,3.5
+tamworth,e07000199,2020,4.6
+tamworth,e07000199,2021,4.1
+tamworth,e07000199,2022,3.4
+tamworth,e07000199,2023,3.1
+tamworth,e07000199,2024,3.5
+north warwickshire,e07000218,2015,3.2
+north warwickshire,e07000218,2016,3.5
+north warwickshire,e07000218,2017,3.2
+north warwickshire,e07000218,2018,3.1
+north warwickshire,e07000218,2019,2.8
+north warwickshire,e07000218,2020,4.2
+north warwickshire,e07000218,2021,3.3
+north warwickshire,e07000218,2022,3.2
+north warwickshire,e07000218,2023,2.5
+north warwickshire,e07000218,2024,2.8
+nuneaton and bedworth,e07000219,2015,5.0
+nuneaton and bedworth,e07000219,2016,5.4
+nuneaton and bedworth,e07000219,2017,5.2
+nuneaton and bedworth,e07000219,2018,3.9
+nuneaton and bedworth,e07000219,2019,3.7
+nuneaton and bedworth,e07000219,2020,4.3
+nuneaton and bedworth,e07000219,2021,3.9
+nuneaton and bedworth,e07000219,2022,4.0
+nuneaton and bedworth,e07000219,2023,3.4
+nuneaton and bedworth,e07000219,2024,3.8
+rugby,e07000220,2015,3.4
+rugby,e07000220,2016,3.5
+rugby,e07000220,2017,3.8
+rugby,e07000220,2018,3.7
+rugby,e07000220,2019,3.3
+rugby,e07000220,2020,3.9
+rugby,e07000220,2021,3.7
+rugby,e07000220,2022,3.2
+rugby,e07000220,2023,3.3
+rugby,e07000220,2024,2.4
+stratford-on-avon,e07000221,2015,2.0
+stratford-on-avon,e07000221,2016,2.2
+stratford-on-avon,e07000221,2017,2.8
+stratford-on-avon,e07000221,2018,2.5
+stratford-on-avon,e07000221,2019,2.2
+stratford-on-avon,e07000221,2020,2.9
+stratford-on-avon,e07000221,2021,3.6
+stratford-on-avon,e07000221,2022,3.4
+stratford-on-avon,e07000221,2023,2.7
+stratford-on-avon,e07000221,2024,2.1
+warwick,e07000222,2015,2.6
+warwick,e07000222,2016,2.9
+warwick,e07000222,2017,3.1
+warwick,e07000222,2018,2.4
+warwick,e07000222,2019,2.8
+warwick,e07000222,2020,3.1
+warwick,e07000222,2021,3.3
+warwick,e07000222,2022,3.5
+warwick,e07000222,2023,3.6
+warwick,e07000222,2024,2.2
+birmingham,e08000025,2015,9.1
+birmingham,e08000025,2016,9.4
+birmingham,e08000025,2017,8.6
+birmingham,e08000025,2018,6.8
+birmingham,e08000025,2019,7.8
+birmingham,e08000025,2020,8.2
+birmingham,e08000025,2021,8.1
+birmingham,e08000025,2022,8.0
+birmingham,e08000025,2023,7.3
+birmingham,e08000025,2024,6.7
+coventry,e08000026,2015,6.1
+coventry,e08000026,2016,5.5
+coventry,e08000026,2017,5.5
+coventry,e08000026,2018,4.5
+coventry,e08000026,2019,4.5
+coventry,e08000026,2020,5.7
+coventry,e08000026,2021,5.7
+coventry,e08000026,2022,5.5
+coventry,e08000026,2023,5.4
+coventry,e08000026,2024,5.0
+dudley,e08000027,2015,6.7
+dudley,e08000027,2016,6.8
+dudley,e08000027,2017,5.9
+dudley,e08000027,2018,5.4
+dudley,e08000027,2019,4.7
+dudley,e08000027,2020,6.0
+dudley,e08000027,2021,4.6
+dudley,e08000027,2022,4.3
+dudley,e08000027,2023,4.0
+dudley,e08000027,2024,4.2
+sandwell,e08000028,2015,8.9
+sandwell,e08000028,2016,8.2
+sandwell,e08000028,2017,8.4
+sandwell,e08000028,2018,6.3
+sandwell,e08000028,2019,5.1
+sandwell,e08000028,2020,5.6
+sandwell,e08000028,2021,6.0
+sandwell,e08000028,2022,6.2
+sandwell,e08000028,2023,5.6
+sandwell,e08000028,2024,5.7
+solihull,e08000029,2015,4.7
+solihull,e08000029,2016,5.1
+solihull,e08000029,2017,4.4
+solihull,e08000029,2018,4.1
+solihull,e08000029,2019,3.7
+solihull,e08000029,2020,4.2
+solihull,e08000029,2021,4.2
+solihull,e08000029,2022,4.6
+solihull,e08000029,2023,3.6
+solihull,e08000029,2024,2.7
+walsall,e08000030,2015,7.3
+walsall,e08000030,2016,7.3
+walsall,e08000030,2017,6.1
+walsall,e08000030,2018,5.1
+walsall,e08000030,2019,5.4
+walsall,e08000030,2020,5.8
+walsall,e08000030,2021,6.5
+walsall,e08000030,2022,5.4
+walsall,e08000030,2023,6.0
+walsall,e08000030,2024,4.6
+wolverhampton,e08000031,2015,10.1
+wolverhampton,e08000031,2016,8.8
+wolverhampton,e08000031,2017,7.7
+wolverhampton,e08000031,2018,6.7
+wolverhampton,e08000031,2019,6.5
+wolverhampton,e08000031,2020,5.8
+wolverhampton,e08000031,2021,6.5
+wolverhampton,e08000031,2022,6.3
+wolverhampton,e08000031,2023,6.2
+wolverhampton,e08000031,2024,5.8
+bromsgrove,e07000234,2015,3.8
+bromsgrove,e07000234,2016,3.6
+bromsgrove,e07000234,2017,3.1
+bromsgrove,e07000234,2018,3.6
+bromsgrove,e07000234,2019,3.2
+bromsgrove,e07000234,2020,3.7
+bromsgrove,e07000234,2021,3.2
+bromsgrove,e07000234,2022,3.9
+bromsgrove,e07000234,2023,2.4
+bromsgrove,e07000234,2024,2.8
+malvern hills,e07000235,2015,3.6
+malvern hills,e07000235,2016,4.1
+malvern hills,e07000235,2017,3.9
+malvern hills,e07000235,2018,3.1
+malvern hills,e07000235,2019,2.5
+malvern hills,e07000235,2020,3.4
+malvern hills,e07000235,2021,4.0
+malvern hills,e07000235,2022,3.1
+malvern hills,e07000235,2023,2.9
+malvern hills,e07000235,2024,2.9
+redditch,e07000236,2015,4.6
+redditch,e07000236,2016,4.7
+redditch,e07000236,2017,4.4
+redditch,e07000236,2018,4.0
+redditch,e07000236,2019,3.6
+redditch,e07000236,2020,4.6
+redditch,e07000236,2021,4.3
+redditch,e07000236,2022,3.6
+redditch,e07000236,2023,3.5
+redditch,e07000236,2024,3.2
+worcester,e07000237,2015,4.9
+worcester,e07000237,2016,4.4
+worcester,e07000237,2017,4.1
+worcester,e07000237,2018,3.4
+worcester,e07000237,2019,3.2
+worcester,e07000237,2020,3.8
+worcester,e07000237,2021,3.8
+worcester,e07000237,2022,3.9
+worcester,e07000237,2023,3.1
+worcester,e07000237,2024,3.0
+wychavon,e07000238,2015,2.9
+wychavon,e07000238,2016,3.0
+wychavon,e07000238,2017,3.7
+wychavon,e07000238,2018,2.8
+wychavon,e07000238,2019,2.7
+wychavon,e07000238,2020,3.3
+wychavon,e07000238,2021,3.2
+wychavon,e07000238,2022,3.1
+wychavon,e07000238,2023,3.1
+wychavon,e07000238,2024,3.0
+wyre forest,e07000239,2015,4.3
+wyre forest,e07000239,2016,4.2
+wyre forest,e07000239,2017,4.2
+wyre forest,e07000239,2018,3.2
+wyre forest,e07000239,2019,3.4
+wyre forest,e07000239,2020,4.6
+wyre forest,e07000239,2021,4.2
+wyre forest,e07000239,2022,3.7
+wyre forest,e07000239,2023,3.3
+wyre forest,e07000239,2024,2.7
+bedford,e06000055,2015,5.4
+bedford,e06000055,2016,4.6
+bedford,e06000055,2017,4.3
+bedford,e06000055,2018,4.3
+bedford,e06000055,2019,3.7
+bedford,e06000055,2020,3.4
+bedford,e06000055,2021,4.5
+bedford,e06000055,2022,3.3
+bedford,e06000055,2023,4.5
+bedford,e06000055,2024,3.5
+central bedfordshire,e06000056,2015,3.4
+central bedfordshire,e06000056,2016,3.1
+central bedfordshire,e06000056,2017,2.8
+central bedfordshire,e06000056,2018,3.1
+central bedfordshire,e06000056,2019,2.1
+central bedfordshire,e06000056,2020,3.0
+central bedfordshire,e06000056,2021,3.3
+central bedfordshire,e06000056,2022,2.3
+central bedfordshire,e06000056,2023,3.2
+central bedfordshire,e06000056,2024,2.9
+luton,e06000032,2015,5.7
+luton,e06000032,2016,5.5
+luton,e06000032,2017,4.8
+luton,e06000032,2018,5.5
+luton,e06000032,2019,4.2
+luton,e06000032,2020,4.5
+luton,e06000032,2021,7.3
+luton,e06000032,2022,4.7
+luton,e06000032,2023,5.2
+luton,e06000032,2024,5.9
+peterborough,e06000031,2015,5.7
+peterborough,e06000031,2016,4.5
+peterborough,e06000031,2017,4.5
+peterborough,e06000031,2018,5.0
+peterborough,e06000031,2019,4.9
+peterborough,e06000031,2020,4.8
+peterborough,e06000031,2021,5.0
+peterborough,e06000031,2022,3.9
+peterborough,e06000031,2023,5.0
+peterborough,e06000031,2024,4.6
+southend-on-sea,e06000033,2015,5.3
+southend-on-sea,e06000033,2016,5.1
+southend-on-sea,e06000033,2017,4.8
+southend-on-sea,e06000033,2018,4.2
+southend-on-sea,e06000033,2019,3.6
+southend-on-sea,e06000033,2020,3.9
+southend-on-sea,e06000033,2021,4.9
+southend-on-sea,e06000033,2022,3.1
+southend-on-sea,e06000033,2023,4.9
+southend-on-sea,e06000033,2024,4.0
+thurrock,e06000034,2015,6.3
+thurrock,e06000034,2016,5.2
+thurrock,e06000034,2017,4.2
+thurrock,e06000034,2018,4.5
+thurrock,e06000034,2019,4.1
+thurrock,e06000034,2020,4.6
+thurrock,e06000034,2021,4.9
+thurrock,e06000034,2022,3.2
+thurrock,e06000034,2023,4.5
+thurrock,e06000034,2024,3.9
+cambridge,e07000008,2015,3.0
+cambridge,e07000008,2016,3.5
+cambridge,e07000008,2017,3.4
+cambridge,e07000008,2018,4.2
+cambridge,e07000008,2019,2.3
+cambridge,e07000008,2020,3.8
+cambridge,e07000008,2021,3.9
+cambridge,e07000008,2022,2.8
+cambridge,e07000008,2023,4.3
+cambridge,e07000008,2024,5.0
+east cambridgeshire,e07000009,2015,3.3
+east cambridgeshire,e07000009,2016,3.2
+east cambridgeshire,e07000009,2017,2.3
+east cambridgeshire,e07000009,2018,2.3
+east cambridgeshire,e07000009,2019,2.0
+east cambridgeshire,e07000009,2020,2.9
+east cambridgeshire,e07000009,2021,3.2
+east cambridgeshire,e07000009,2022,2.0
+east cambridgeshire,e07000009,2023,3.0
+east cambridgeshire,e07000009,2024,2.8
+fenland,e07000010,2015,4.5
+fenland,e07000010,2016,3.8
+fenland,e07000010,2017,3.2
+fenland,e07000010,2018,4.0
+fenland,e07000010,2019,3.2
+fenland,e07000010,2020,3.7
+fenland,e07000010,2021,4.6
+fenland,e07000010,2022,2.9
+fenland,e07000010,2023,4.5
+fenland,e07000010,2024,4.7
+huntingdonshire,e07000011,2015,2.8
+huntingdonshire,e07000011,2016,2.6
+huntingdonshire,e07000011,2017,2.6
+huntingdonshire,e07000011,2018,2.8
+huntingdonshire,e07000011,2019,2.4
+huntingdonshire,e07000011,2020,3.5
+huntingdonshire,e07000011,2021,3.3
+huntingdonshire,e07000011,2022,2.6
+huntingdonshire,e07000011,2023,3.3
+huntingdonshire,e07000011,2024,2.8
+south cambridgeshire,e07000012,2015,2.5
+south cambridgeshire,e07000012,2016,2.3
+south cambridgeshire,e07000012,2017,2.0
+south cambridgeshire,e07000012,2018,2.4
+south cambridgeshire,e07000012,2019,1.7
+south cambridgeshire,e07000012,2020,2.9
+south cambridgeshire,e07000012,2021,3.4
+south cambridgeshire,e07000012,2022,2.5
+south cambridgeshire,e07000012,2023,3.5
+south cambridgeshire,e07000012,2024,2.3
+basildon,e07000066,2015,5.1
+basildon,e07000066,2016,5.1
+basildon,e07000066,2017,4.1
+basildon,e07000066,2018,4.3
+basildon,e07000066,2019,3.6
+basildon,e07000066,2020,4.5
+basildon,e07000066,2021,4.9
+basildon,e07000066,2022,2.8
+basildon,e07000066,2023,4.9
+basildon,e07000066,2024,3.9
+braintree,e07000067,2015,4.0
+braintree,e07000067,2016,3.8
+braintree,e07000067,2017,3.0
+braintree,e07000067,2018,3.4
+braintree,e07000067,2019,2.7
+braintree,e07000067,2020,3.1
+braintree,e07000067,2021,3.5
+braintree,e07000067,2022,2.3
+braintree,e07000067,2023,3.3
+braintree,e07000067,2024,3.0
+brentwood,e07000068,2015,3.2
+brentwood,e07000068,2016,3.4
+brentwood,e07000068,2017,2.9
+brentwood,e07000068,2018,3.6
+brentwood,e07000068,2019,3.0
+brentwood,e07000068,2020,3.0
+brentwood,e07000068,2021,4.1
+brentwood,e07000068,2022,2.4
+brentwood,e07000068,2023,3.3
+brentwood,e07000068,2024,3.3
+castle point,e07000069,2015,4.5
+castle point,e07000069,2016,4.1
+castle point,e07000069,2017,3.4
+castle point,e07000069,2018,3.4
+castle point,e07000069,2019,2.5
+castle point,e07000069,2020,3.5
+castle point,e07000069,2021,3.8
+castle point,e07000069,2022,2.9
+castle point,e07000069,2023,2.9
+castle point,e07000069,2024,2.9
+chelmsford,e07000070,2015,4.4
+chelmsford,e07000070,2016,3.6
+chelmsford,e07000070,2017,2.9
+chelmsford,e07000070,2018,3.8
+chelmsford,e07000070,2019,2.5
+chelmsford,e07000070,2020,3.3
+chelmsford,e07000070,2021,3.9
+chelmsford,e07000070,2022,2.6
+chelmsford,e07000070,2023,2.6
+chelmsford,e07000070,2024,2.6
+colchester,e07000071,2015,3.7
+colchester,e07000071,2016,3.9
+colchester,e07000071,2017,4.0
+colchester,e07000071,2018,3.7
+colchester,e07000071,2019,3.2
+colchester,e07000071,2020,4.3
+colchester,e07000071,2021,3.7
+colchester,e07000071,2022,2.8
+colchester,e07000071,2023,3.9
+colchester,e07000071,2024,3.4
+epping forest,e07000072,2015,4.3
+epping forest,e07000072,2016,3.6
+epping forest,e07000072,2017,3.5
+epping forest,e07000072,2018,3.7
+epping forest,e07000072,2019,2.5
+epping forest,e07000072,2020,3.5
+epping forest,e07000072,2021,4.0
+epping forest,e07000072,2022,2.5
+epping forest,e07000072,2023,3.7
+epping forest,e07000072,2024,3.9
+harlow,e07000073,2015,6.4
+harlow,e07000073,2016,4.1
+harlow,e07000073,2017,4.1
+harlow,e07000073,2018,5.0
+harlow,e07000073,2019,4.5
+harlow,e07000073,2020,4.4
+harlow,e07000073,2021,5.0
+harlow,e07000073,2022,3.1
+harlow,e07000073,2023,5.4
+harlow,e07000073,2024,5.0
+maldon,e07000074,2015,4.1
+maldon,e07000074,2016,3.3
+maldon,e07000074,2017,3.7
+maldon,e07000074,2018,4.1
+maldon,e07000074,2019,2.4
+maldon,e07000074,2020,4.0
+maldon,e07000074,2021,3.6
+maldon,e07000074,2022,2.4
+maldon,e07000074,2023,2.9
+maldon,e07000074,2024,2.7
+rochford,e07000075,2015,3.3
+rochford,e07000075,2016,2.6
+rochford,e07000075,2017,3.1
+rochford,e07000075,2018,2.9
+rochford,e07000075,2019,2.0
+rochford,e07000075,2020,3.4
+rochford,e07000075,2021,3.4
+rochford,e07000075,2022,2.1
+rochford,e07000075,2023,3.6
+rochford,e07000075,2024,2.6
+tendring,e07000076,2015,5.8
+tendring,e07000076,2016,6.4
+tendring,e07000076,2017,5.5
+tendring,e07000076,2018,4.8
+tendring,e07000076,2019,3.9
+tendring,e07000076,2020,5.0
+tendring,e07000076,2021,5.5
+tendring,e07000076,2022,4.1
+tendring,e07000076,2023,5.6
+tendring,e07000076,2024,4.5
+uttlesford,e07000077,2015,2.8
+uttlesford,e07000077,2016,2.0
+uttlesford,e07000077,2017,2.2
+uttlesford,e07000077,2018,3.0
+uttlesford,e07000077,2019,2.2
+uttlesford,e07000077,2020,3.0
+uttlesford,e07000077,2021,3.6
+uttlesford,e07000077,2022,2.1
+uttlesford,e07000077,2023,2.7
+uttlesford,e07000077,2024,3.0
+broxbourne,e07000095,2015,4.2
+broxbourne,e07000095,2016,3.8
+broxbourne,e07000095,2017,3.3
+broxbourne,e07000095,2018,4.2
+broxbourne,e07000095,2019,3.3
+broxbourne,e07000095,2020,3.6
+broxbourne,e07000095,2021,4.4
+broxbourne,e07000095,2022,2.6
+broxbourne,e07000095,2023,4.6
+broxbourne,e07000095,2024,3.4
+dacorum,e07000096,2015,3.7
+dacorum,e07000096,2016,3.3
+dacorum,e07000096,2017,3.2
+dacorum,e07000096,2018,3.4
+dacorum,e07000096,2019,2.1
+dacorum,e07000096,2020,3.4
+dacorum,e07000096,2021,3.7
+dacorum,e07000096,2022,2.6
+dacorum,e07000096,2023,3.8
+dacorum,e07000096,2024,2.5
+east hertfordshire,e07000242,2015,2.7
+east hertfordshire,e07000242,2016,3.1
+east hertfordshire,e07000242,2017,2.4
+east hertfordshire,e07000242,2018,3.0
+east hertfordshire,e07000242,2019,2.3
+east hertfordshire,e07000242,2020,3.0
+east hertfordshire,e07000242,2021,3.3
+east hertfordshire,e07000242,2022,2.1
+east hertfordshire,e07000242,2023,3.6
+east hertfordshire,e07000242,2024,2.9
+hertsmere,e07000098,2015,4.9
+hertsmere,e07000098,2016,3.7
+hertsmere,e07000098,2017,3.2
+hertsmere,e07000098,2018,4.2
+hertsmere,e07000098,2019,2.9
+hertsmere,e07000098,2020,3.8
+hertsmere,e07000098,2021,4.3
+hertsmere,e07000098,2022,3.0
+hertsmere,e07000098,2023,3.2
+hertsmere,e07000098,2024,3.3
+north hertfordshire,e07000099,2015,4.2
+north hertfordshire,e07000099,2016,3.4
+north hertfordshire,e07000099,2017,3.5
+north hertfordshire,e07000099,2018,3.2
+north hertfordshire,e07000099,2019,2.9
+north hertfordshire,e07000099,2020,3.3
+north hertfordshire,e07000099,2021,3.5
+north hertfordshire,e07000099,2022,2.1
+north hertfordshire,e07000099,2023,2.8
+north hertfordshire,e07000099,2024,3.0
+st albans,e07000240,2015,2.9
+st albans,e07000240,2016,3.0
+st albans,e07000240,2017,3.3
+st albans,e07000240,2018,3.5
+st albans,e07000240,2019,3.0
+st albans,e07000240,2020,3.3
+st albans,e07000240,2021,3.2
+st albans,e07000240,2022,1.8
+st albans,e07000240,2023,2.7
+st albans,e07000240,2024,2.6
+stevenage,e07000243,2015,4.8
+stevenage,e07000243,2016,4.4
+stevenage,e07000243,2017,4.0
+stevenage,e07000243,2018,3.7
+stevenage,e07000243,2019,2.7
+stevenage,e07000243,2020,3.5
+stevenage,e07000243,2021,4.1
+stevenage,e07000243,2022,2.7
+stevenage,e07000243,2023,3.9
+stevenage,e07000243,2024,3.0
+three rivers,e07000102,2015,3.1
+three rivers,e07000102,2016,3.3
+three rivers,e07000102,2017,2.8
+three rivers,e07000102,2018,3.7
+three rivers,e07000102,2019,2.6
+three rivers,e07000102,2020,3.5
+three rivers,e07000102,2021,3.6
+three rivers,e07000102,2022,2.7
+three rivers,e07000102,2023,3.3
+three rivers,e07000102,2024,3.6
+watford,e07000103,2015,4.1
+watford,e07000103,2016,3.9
+watford,e07000103,2017,3.6
+watford,e07000103,2018,4.2
+watford,e07000103,2019,3.0
+watford,e07000103,2020,4.1
+watford,e07000103,2021,5.0
+watford,e07000103,2022,2.7
+watford,e07000103,2023,3.8
+watford,e07000103,2024,4.2
+welwyn hatfield,e07000241,2015,4.7
+welwyn hatfield,e07000241,2016,4.1
+welwyn hatfield,e07000241,2017,3.5
+welwyn hatfield,e07000241,2018,3.8
+welwyn hatfield,e07000241,2019,3.1
+welwyn hatfield,e07000241,2020,3.2
+welwyn hatfield,e07000241,2021,3.4
+welwyn hatfield,e07000241,2022,2.9
+welwyn hatfield,e07000241,2023,3.6
+welwyn hatfield,e07000241,2024,3.0
+breckland,e07000143,2015,4.1
+breckland,e07000143,2016,3.4
+breckland,e07000143,2017,3.5
+breckland,e07000143,2018,3.7
+breckland,e07000143,2019,2.5
+breckland,e07000143,2020,4.1
+breckland,e07000143,2021,3.6
+breckland,e07000143,2022,2.8
+breckland,e07000143,2023,3.2
+breckland,e07000143,2024,3.1
+broadland,e07000144,2015,3.1
+broadland,e07000144,2016,3.0
+broadland,e07000144,2017,2.7
+broadland,e07000144,2018,3.3
+broadland,e07000144,2019,2.3
+broadland,e07000144,2020,2.7
+broadland,e07000144,2021,3.1
+broadland,e07000144,2022,2.6
+broadland,e07000144,2023,2.6
+broadland,e07000144,2024,2.6
+great yarmouth,e07000145,2015,5.9
+great yarmouth,e07000145,2016,6.1
+great yarmouth,e07000145,2017,6.2
+great yarmouth,e07000145,2018,7.5
+great yarmouth,e07000145,2019,5.2
+great yarmouth,e07000145,2020,5.8
+great yarmouth,e07000145,2021,5.4
+great yarmouth,e07000145,2022,3.5
+great yarmouth,e07000145,2023,6.5
+great yarmouth,e07000145,2024,5.0
+king's lynn and west norfolk,e07000146,2015,4.6
+king's lynn and west norfolk,e07000146,2016,3.7
+king's lynn and west norfolk,e07000146,2017,3.3
+king's lynn and west norfolk,e07000146,2018,3.6
+king's lynn and west norfolk,e07000146,2019,3.0
+king's lynn and west norfolk,e07000146,2020,3.4
+king's lynn and west norfolk,e07000146,2021,4.1
+king's lynn and west norfolk,e07000146,2022,3.2
+king's lynn and west norfolk,e07000146,2023,3.5
+king's lynn and west norfolk,e07000146,2024,2.7
+north norfolk,e07000147,2015,4.1
+north norfolk,e07000147,2016,3.9
+north norfolk,e07000147,2017,2.6
+north norfolk,e07000147,2018,2.6
+north norfolk,e07000147,2019,2.2
+north norfolk,e07000147,2020,3.7
+north norfolk,e07000147,2021,3.7
+north norfolk,e07000147,2022,3.0
+north norfolk,e07000147,2023,3.7
+north norfolk,e07000147,2024,3.4
+norwich,e07000148,2015,5.9
+norwich,e07000148,2016,5.0
+norwich,e07000148,2017,5.0
+norwich,e07000148,2018,4.7
+norwich,e07000148,2019,4.1
+norwich,e07000148,2020,4.1
+norwich,e07000148,2021,4.7
+norwich,e07000148,2022,2.5
+norwich,e07000148,2023,4.9
+norwich,e07000148,2024,5.0
+south norfolk,e07000149,2015,3.3
+south norfolk,e07000149,2016,2.8
+south norfolk,e07000149,2017,2.7
+south norfolk,e07000149,2018,3.3
+south norfolk,e07000149,2019,2.1
+south norfolk,e07000149,2020,2.9
+south norfolk,e07000149,2021,3.4
+south norfolk,e07000149,2022,2.6
+south norfolk,e07000149,2023,4.0
+south norfolk,e07000149,2024,2.9
+babergh,e07000200,2015,3.5
+babergh,e07000200,2016,3.2
+babergh,e07000200,2017,3.3
+babergh,e07000200,2018,3.6
+babergh,e07000200,2019,2.9
+babergh,e07000200,2020,3.0
+babergh,e07000200,2021,3.5
+babergh,e07000200,2022,2.5
+babergh,e07000200,2023,3.5
+babergh,e07000200,2024,2.8
+ipswich,e07000202,2015,6.2
+ipswich,e07000202,2016,4.9
+ipswich,e07000202,2017,4.6
+ipswich,e07000202,2018,4.9
+ipswich,e07000202,2019,3.8
+ipswich,e07000202,2020,4.5
+ipswich,e07000202,2021,4.2
+ipswich,e07000202,2022,2.6
+ipswich,e07000202,2023,4.1
+ipswich,e07000202,2024,3.7
+mid suffolk,e07000203,2015,3.2
+mid suffolk,e07000203,2016,3.3
+mid suffolk,e07000203,2017,2.9
+mid suffolk,e07000203,2018,3.4
+mid suffolk,e07000203,2019,2.3
+mid suffolk,e07000203,2020,3.3
+mid suffolk,e07000203,2021,3.4
+mid suffolk,e07000203,2022,2.2
+mid suffolk,e07000203,2023,3.2
+mid suffolk,e07000203,2024,3.7
+east suffolk,e07000244,2015,4.0
+east suffolk,e07000244,2016,3.9
+east suffolk,e07000244,2017,3.5
+east suffolk,e07000244,2018,3.7
+east suffolk,e07000244,2019,3.0
+east suffolk,e07000244,2020,3.7
+east suffolk,e07000244,2021,3.9
+east suffolk,e07000244,2022,2.7
+east suffolk,e07000244,2023,3.4
+east suffolk,e07000244,2024,3.7
+west suffolk,e07000245,2015,3.3
+west suffolk,e07000245,2016,3.0
+west suffolk,e07000245,2017,3.0
+west suffolk,e07000245,2018,3.6
+west suffolk,e07000245,2019,2.5
+west suffolk,e07000245,2020,2.9
+west suffolk,e07000245,2021,3.7
+west suffolk,e07000245,2022,2.5
+west suffolk,e07000245,2023,4.0
+west suffolk,e07000245,2024,2.9
+camden,e09000007,2015,6.3
+camden,e09000007,2016,5.2
+camden,e09000007,2017,5.3
+camden,e09000007,2018,5.2
+camden,e09000007,2019,4.2
+camden,e09000007,2020,4.0
+camden,e09000007,2021,5.6
+camden,e09000007,2022,4.1
+camden,e09000007,2023,4.3
+camden,e09000007,2024,6.3
+city of london,e09000001,2015,-
+city of london,e09000001,2016,-
+city of london,e09000001,2017,-
+city of london,e09000001,2018,-
+city of london,e09000001,2019,-
+city of london,e09000001,2020,-
+city of london,e09000001,2021,-
+city of london,e09000001,2022,-
+city of london,e09000001,2023,-
+city of london,e09000001,2024,-
+hackney,e09000012,2015,6.9
+hackney,e09000012,2016,7.6
+hackney,e09000012,2017,5.2
+hackney,e09000012,2018,6.1
+hackney,e09000012,2019,4.5
+hackney,e09000012,2020,6.0
+hackney,e09000012,2021,5.7
+hackney,e09000012,2022,4.6
+hackney,e09000012,2023,4.1
+hackney,e09000012,2024,4.8
+hammersmith and fulham,e09000013,2015,6.5
+hammersmith and fulham,e09000013,2016,5.9
+hammersmith and fulham,e09000013,2017,5.8
+hammersmith and fulham,e09000013,2018,5.5
+hammersmith and fulham,e09000013,2019,5.3
+hammersmith and fulham,e09000013,2020,4.4
+hammersmith and fulham,e09000013,2021,6.6
+hammersmith and fulham,e09000013,2022,3.7
+hammersmith and fulham,e09000013,2023,4.8
+hammersmith and fulham,e09000013,2024,5.2
+haringey,e09000014,2015,6.6
+haringey,e09000014,2016,6.9
+haringey,e09000014,2017,6.7
+haringey,e09000014,2018,5.4
+haringey,e09000014,2019,4.0
+haringey,e09000014,2020,5.4
+haringey,e09000014,2021,6.6
+haringey,e09000014,2022,5.1
+haringey,e09000014,2023,4.3
+haringey,e09000014,2024,5.8
+islington,e09000019,2015,7.4
+islington,e09000019,2016,6.5
+islington,e09000019,2017,5.5
+islington,e09000019,2018,5.3
+islington,e09000019,2019,4.5
+islington,e09000019,2020,4.7
+islington,e09000019,2021,6.6
+islington,e09000019,2022,3.4
+islington,e09000019,2023,4.4
+islington,e09000019,2024,5.7
+kensington and chelsea,e09000020,2015,5.8
+kensington and chelsea,e09000020,2016,5.3
+kensington and chelsea,e09000020,2017,5.7
+kensington and chelsea,e09000020,2018,6.5
+kensington and chelsea,e09000020,2019,4.9
+kensington and chelsea,e09000020,2020,4.0
+kensington and chelsea,e09000020,2021,6.8
+kensington and chelsea,e09000020,2022,3.6
+kensington and chelsea,e09000020,2023,4.9
+kensington and chelsea,e09000020,2024,6.0
+lambeth,e09000022,2015,5.9
+lambeth,e09000022,2016,6.9
+lambeth,e09000022,2017,4.9
+lambeth,e09000022,2018,6.0
+lambeth,e09000022,2019,5.3
+lambeth,e09000022,2020,5.5
+lambeth,e09000022,2021,5.5
+lambeth,e09000022,2022,3.8
+lambeth,e09000022,2023,3.8
+lambeth,e09000022,2024,5.3
+lewisham,e09000023,2015,5.7
+lewisham,e09000023,2016,7.5
+lewisham,e09000023,2017,5.2
+lewisham,e09000023,2018,4.7
+lewisham,e09000023,2019,4.4
+lewisham,e09000023,2020,5.1
+lewisham,e09000023,2021,5.7
+lewisham,e09000023,2022,4.5
+lewisham,e09000023,2023,4.6
+lewisham,e09000023,2024,5.2
+newham,e09000025,2015,7.1
+newham,e09000025,2016,7.0
+newham,e09000025,2017,6.1
+newham,e09000025,2018,5.4
+newham,e09000025,2019,4.8
+newham,e09000025,2020,5.7
+newham,e09000025,2021,7.0
+newham,e09000025,2022,5.2
+newham,e09000025,2023,5.2
+newham,e09000025,2024,6.7
+southwark,e09000028,2015,7.1
+southwark,e09000028,2016,6.8
+southwark,e09000028,2017,6.1
+southwark,e09000028,2018,6.2
+southwark,e09000028,2019,4.7
+southwark,e09000028,2020,5.1
+southwark,e09000028,2021,6.0
+southwark,e09000028,2022,4.8
+southwark,e09000028,2023,3.9
+southwark,e09000028,2024,5.1
+tower hamlets,e09000030,2015,9.1
+tower hamlets,e09000030,2016,6.9
+tower hamlets,e09000030,2017,8.9
+tower hamlets,e09000030,2018,6.8
+tower hamlets,e09000030,2019,5.1
+tower hamlets,e09000030,2020,5.1
+tower hamlets,e09000030,2021,7.2
+tower hamlets,e09000030,2022,4.6
+tower hamlets,e09000030,2023,5.8
+tower hamlets,e09000030,2024,6.4
+wandsworth,e09000032,2015,5.6
+wandsworth,e09000032,2016,4.2
+wandsworth,e09000032,2017,4.3
+wandsworth,e09000032,2018,4.3
+wandsworth,e09000032,2019,3.3
+wandsworth,e09000032,2020,3.5
+wandsworth,e09000032,2021,5.3
+wandsworth,e09000032,2022,3.0
+wandsworth,e09000032,2023,3.4
+wandsworth,e09000032,2024,4.6
+westminster,e09000033,2015,7.2
+westminster,e09000033,2016,5.8
+westminster,e09000033,2017,5.3
+westminster,e09000033,2018,5.7
+westminster,e09000033,2019,3.8
+westminster,e09000033,2020,4.7
+westminster,e09000033,2021,6.0
+westminster,e09000033,2022,4.0
+westminster,e09000033,2023,4.6
+westminster,e09000033,2024,5.2
+barking and dagenham,e09000002,2015,10.4
+barking and dagenham,e09000002,2016,7.8
+barking and dagenham,e09000002,2017,7.6
+barking and dagenham,e09000002,2018,5.9
+barking and dagenham,e09000002,2019,6.0
+barking and dagenham,e09000002,2020,6.8
+barking and dagenham,e09000002,2021,9.0
+barking and dagenham,e09000002,2022,4.6
+barking and dagenham,e09000002,2023,6.8
+barking and dagenham,e09000002,2024,7.3
+barnet,e09000003,2015,6.2
+barnet,e09000003,2016,5.2
+barnet,e09000003,2017,4.5
+barnet,e09000003,2018,4.6
+barnet,e09000003,2019,5.1
+barnet,e09000003,2020,3.9
+barnet,e09000003,2021,7.6
+barnet,e09000003,2022,5.4
+barnet,e09000003,2023,5.5
+barnet,e09000003,2024,5.1
+bexley,e09000004,2015,6.3
+bexley,e09000004,2016,4.7
+bexley,e09000004,2017,4.6
+bexley,e09000004,2018,4.1
+bexley,e09000004,2019,4.2
+bexley,e09000004,2020,4.5
+bexley,e09000004,2021,5.2
+bexley,e09000004,2022,3.3
+bexley,e09000004,2023,4.1
+bexley,e09000004,2024,3.6
+brent,e09000005,2015,6.6
+brent,e09000005,2016,7.9
+brent,e09000005,2017,6.3
+brent,e09000005,2018,5.6
+brent,e09000005,2019,4.0
+brent,e09000005,2020,6.3
+brent,e09000005,2021,7.5
+brent,e09000005,2022,5.8
+brent,e09000005,2023,6.7
+brent,e09000005,2024,6.0
+bromley,e09000006,2015,5.1
+bromley,e09000006,2016,4.6
+bromley,e09000006,2017,4.5
+bromley,e09000006,2018,3.7
+bromley,e09000006,2019,3.4
+bromley,e09000006,2020,4.3
+bromley,e09000006,2021,5.0
+bromley,e09000006,2022,2.9
+bromley,e09000006,2023,4.9
+bromley,e09000006,2024,4.5
+croydon,e09000008,2015,5.7
+croydon,e09000008,2016,5.8
+croydon,e09000008,2017,6.3
+croydon,e09000008,2018,5.9
+croydon,e09000008,2019,5.6
+croydon,e09000008,2020,4.8
+croydon,e09000008,2021,7.8
+croydon,e09000008,2022,4.8
+croydon,e09000008,2023,5.5
+croydon,e09000008,2024,5.3
+ealing,e09000009,2015,6.6
+ealing,e09000009,2016,6.3
+ealing,e09000009,2017,5.2
+ealing,e09000009,2018,5.1
+ealing,e09000009,2019,5.6
+ealing,e09000009,2020,5.1
+ealing,e09000009,2021,7.6
+ealing,e09000009,2022,5.4
+ealing,e09000009,2023,5.0
+ealing,e09000009,2024,4.8
+enfield,e09000010,2015,6.5
+enfield,e09000010,2016,6.3
+enfield,e09000010,2017,6.1
+enfield,e09000010,2018,5.5
+enfield,e09000010,2019,5.9
+enfield,e09000010,2020,5.3
+enfield,e09000010,2021,7.9
+enfield,e09000010,2022,5.8
+enfield,e09000010,2023,6.3
+enfield,e09000010,2024,4.9
+greenwich,e09000011,2015,7.3
+greenwich,e09000011,2016,6.7
+greenwich,e09000011,2017,5.8
+greenwich,e09000011,2018,5.4
+greenwich,e09000011,2019,4.8
+greenwich,e09000011,2020,4.7
+greenwich,e09000011,2021,6.9
+greenwich,e09000011,2022,5.2
+greenwich,e09000011,2023,4.5
+greenwich,e09000011,2024,5.4
+harrow,e09000015,2015,4.7
+harrow,e09000015,2016,4.9
+harrow,e09000015,2017,4.2
+harrow,e09000015,2018,3.4
+harrow,e09000015,2019,4.5
+harrow,e09000015,2020,4.4
+harrow,e09000015,2021,6.7
+harrow,e09000015,2022,5.0
+harrow,e09000015,2023,4.8
+harrow,e09000015,2024,4.5
+havering,e09000016,2015,6.4
+havering,e09000016,2016,5.2
+havering,e09000016,2017,4.9
+havering,e09000016,2018,4.5
+havering,e09000016,2019,5.0
+havering,e09000016,2020,4.7
+havering,e09000016,2021,5.1
+havering,e09000016,2022,3.4
+havering,e09000016,2023,4.3
+havering,e09000016,2024,3.9
+hillingdon,e09000017,2015,5.8
+hillingdon,e09000017,2016,4.8
+hillingdon,e09000017,2017,5.2
+hillingdon,e09000017,2018,4.1
+hillingdon,e09000017,2019,4.4
+hillingdon,e09000017,2020,5.3
+hillingdon,e09000017,2021,6.2
+hillingdon,e09000017,2022,4.8
+hillingdon,e09000017,2023,6.9
+hillingdon,e09000017,2024,4.7
+hounslow,e09000018,2015,5.3
+hounslow,e09000018,2016,5.5
+hounslow,e09000018,2017,6.1
+hounslow,e09000018,2018,5.1
+hounslow,e09000018,2019,5.3
+hounslow,e09000018,2020,4.5
+hounslow,e09000018,2021,8.1
+hounslow,e09000018,2022,5.0
+hounslow,e09000018,2023,4.7
+hounslow,e09000018,2024,5.4
+kingston upon thames,e09000021,2015,4.8
+kingston upon thames,e09000021,2016,5.0
+kingston upon thames,e09000021,2017,4.2
+kingston upon thames,e09000021,2018,4.3
+kingston upon thames,e09000021,2019,3.4
+kingston upon thames,e09000021,2020,4.5
+kingston upon thames,e09000021,2021,4.5
+kingston upon thames,e09000021,2022,3.2
+kingston upon thames,e09000021,2023,3.6
+kingston upon thames,e09000021,2024,3.7
+merton,e09000024,2015,5.4
+merton,e09000024,2016,4.8
+merton,e09000024,2017,4.4
+merton,e09000024,2018,3.9
+merton,e09000024,2019,4.5
+merton,e09000024,2020,4.3
+merton,e09000024,2021,6.5
+merton,e09000024,2022,3.5
+merton,e09000024,2023,4.8
+merton,e09000024,2024,4.1
+redbridge,e09000026,2015,6.4
+redbridge,e09000026,2016,5.6
+redbridge,e09000026,2017,5.1
+redbridge,e09000026,2018,4.9
+redbridge,e09000026,2019,4.7
+redbridge,e09000026,2020,4.2
+redbridge,e09000026,2021,8.1
+redbridge,e09000026,2022,5.6
+redbridge,e09000026,2023,5.0
+redbridge,e09000026,2024,5.9
+richmond upon thames,e09000027,2015,4.5
+richmond upon thames,e09000027,2016,3.9
+richmond upon thames,e09000027,2017,4.1
+richmond upon thames,e09000027,2018,3.5
+richmond upon thames,e09000027,2019,3.2
+richmond upon thames,e09000027,2020,3.5
+richmond upon thames,e09000027,2021,4.5
+richmond upon thames,e09000027,2022,3.4
+richmond upon thames,e09000027,2023,3.9
+richmond upon thames,e09000027,2024,4.1
+sutton,e09000029,2015,5.2
+sutton,e09000029,2016,4.9
+sutton,e09000029,2017,5.0
+sutton,e09000029,2018,4.5
+sutton,e09000029,2019,4.7
+sutton,e09000029,2020,4.6
+sutton,e09000029,2021,4.9
+sutton,e09000029,2022,3.6
+sutton,e09000029,2023,4.6
+sutton,e09000029,2024,4.4
+waltham forest,e09000031,2015,7.3
+waltham forest,e09000031,2016,6.4
+waltham forest,e09000031,2017,5.2
+waltham forest,e09000031,2018,4.2
+waltham forest,e09000031,2019,5.0
+waltham forest,e09000031,2020,5.8
+waltham forest,e09000031,2021,8.1
+waltham forest,e09000031,2022,6.3
+waltham forest,e09000031,2023,5.5
+waltham forest,e09000031,2024,4.2
+bracknell forest,e06000036,2015,3.4
+bracknell forest,e06000036,2016,3.2
+bracknell forest,e06000036,2017,2.9
+bracknell forest,e06000036,2018,2.5
+bracknell forest,e06000036,2019,2.5
+bracknell forest,e06000036,2020,3.4
+bracknell forest,e06000036,2021,3.6
+bracknell forest,e06000036,2022,2.8
+bracknell forest,e06000036,2023,3.0
+bracknell forest,e06000036,2024,3.3
+brighton and hove,e06000043,2015,5.8
+brighton and hove,e06000043,2016,5.7
+brighton and hove,e06000043,2017,4.8
+brighton and hove,e06000043,2018,5.7
+brighton and hove,e06000043,2019,4.2
+brighton and hove,e06000043,2020,5.5
+brighton and hove,e06000043,2021,4.8
+brighton and hove,e06000043,2022,3.5
+brighton and hove,e06000043,2023,4.7
+brighton and hove,e06000043,2024,4.8
+isle of wight,e06000046,2015,5.6
+isle of wight,e06000046,2016,5.6
+isle of wight,e06000046,2017,4.4
+isle of wight,e06000046,2018,4.0
+isle of wight,e06000046,2019,4.1
+isle of wight,e06000046,2020,4.7
+isle of wight,e06000046,2021,4.7
+isle of wight,e06000046,2022,4.8
+isle of wight,e06000046,2023,4.2
+isle of wight,e06000046,2024,4.5
+medway,e06000035,2015,7.3
+medway,e06000035,2016,6.6
+medway,e06000035,2017,4.9
+medway,e06000035,2018,4.0
+medway,e06000035,2019,4.1
+medway,e06000035,2020,4.8
+medway,e06000035,2021,4.2
+medway,e06000035,2022,3.3
+medway,e06000035,2023,4.0
+medway,e06000035,2024,3.5
+milton keynes,e06000042,2015,5.6
+milton keynes,e06000042,2016,4.6
+milton keynes,e06000042,2017,4.4
+milton keynes,e06000042,2018,4.2
+milton keynes,e06000042,2019,3.7
+milton keynes,e06000042,2020,4.0
+milton keynes,e06000042,2021,3.9
+milton keynes,e06000042,2022,2.9
+milton keynes,e06000042,2023,3.7
+milton keynes,e06000042,2024,3.9
+portsmouth,e06000044,2015,6.5
+portsmouth,e06000044,2016,6.1
+portsmouth,e06000044,2017,4.3
+portsmouth,e06000044,2018,4.4
+portsmouth,e06000044,2019,3.8
+portsmouth,e06000044,2020,5.3
+portsmouth,e06000044,2021,4.8
+portsmouth,e06000044,2022,3.9
+portsmouth,e06000044,2023,3.8
+portsmouth,e06000044,2024,4.6
+reading,e06000038,2015,5.2
+reading,e06000038,2016,4.8
+reading,e06000038,2017,3.6
+reading,e06000038,2018,3.9
+reading,e06000038,2019,3.8
+reading,e06000038,2020,3.9
+reading,e06000038,2021,4.3
+reading,e06000038,2022,3.1
+reading,e06000038,2023,3.7
+reading,e06000038,2024,3.7
+slough,e06000039,2015,4.5
+slough,e06000039,2016,5.0
+slough,e06000039,2017,4.0
+slough,e06000039,2018,3.5
+slough,e06000039,2019,4.5
+slough,e06000039,2020,4.5
+slough,e06000039,2021,6.9
+slough,e06000039,2022,5.2
+slough,e06000039,2023,4.5
+slough,e06000039,2024,5.8
+southampton,e06000045,2015,5.8
+southampton,e06000045,2016,5.9
+southampton,e06000045,2017,4.6
+southampton,e06000045,2018,5.5
+southampton,e06000045,2019,4.3
+southampton,e06000045,2020,5.1
+southampton,e06000045,2021,4.9
+southampton,e06000045,2022,3.6
+southampton,e06000045,2023,4.6
+southampton,e06000045,2024,5.4
+west berkshire,e06000037,2015,2.8
+west berkshire,e06000037,2016,3.0
+west berkshire,e06000037,2017,2.7
+west berkshire,e06000037,2018,2.7
+west berkshire,e06000037,2019,2.5
+west berkshire,e06000037,2020,2.9
+west berkshire,e06000037,2021,3.1
+west berkshire,e06000037,2022,2.4
+west berkshire,e06000037,2023,2.6
+west berkshire,e06000037,2024,2.9
+windsor and maidenhead,e06000040,2015,3.5
+windsor and maidenhead,e06000040,2016,3.3
+windsor and maidenhead,e06000040,2017,2.8
+windsor and maidenhead,e06000040,2018,2.7
+windsor and maidenhead,e06000040,2019,2.6
+windsor and maidenhead,e06000040,2020,3.0
+windsor and maidenhead,e06000040,2021,3.8
+windsor and maidenhead,e06000040,2022,2.5
+windsor and maidenhead,e06000040,2023,3.0
+windsor and maidenhead,e06000040,2024,3.2
+wokingham,e06000041,2015,2.9
+wokingham,e06000041,2016,3.1
+wokingham,e06000041,2017,2.6
+wokingham,e06000041,2018,2.4
+wokingham,e06000041,2019,2.4
+wokingham,e06000041,2020,3.1
+wokingham,e06000041,2021,3.0
+wokingham,e06000041,2022,2.2
+wokingham,e06000041,2023,2.3
+wokingham,e06000041,2024,3.1
+buckinghamshire,e06000060,2015,-
+buckinghamshire,e06000060,2016,3.5
+buckinghamshire,e06000060,2017,2.9
+buckinghamshire,e06000060,2018,2.9
+buckinghamshire,e06000060,2019,2.8
+buckinghamshire,e06000060,2020,3.5
+buckinghamshire,e06000060,2021,3.6
+buckinghamshire,e06000060,2022,2.7
+buckinghamshire,e06000060,2023,3.0
+buckinghamshire,e06000060,2024,3.2
+eastbourne,e07000061,2015,6.2
+eastbourne,e07000061,2016,5.9
+eastbourne,e07000061,2017,4.5
+eastbourne,e07000061,2018,4.8
+eastbourne,e07000061,2019,4.4
+eastbourne,e07000061,2020,4.8
+eastbourne,e07000061,2021,4.8
+eastbourne,e07000061,2022,3.7
+eastbourne,e07000061,2023,4.8
+eastbourne,e07000061,2024,4.4
+hastings,e07000062,2015,8.3
+hastings,e07000062,2016,8.1
+hastings,e07000062,2017,4.5
+hastings,e07000062,2018,5.3
+hastings,e07000062,2019,4.7
+hastings,e07000062,2020,5.1
+hastings,e07000062,2021,6.0
+hastings,e07000062,2022,4.5
+hastings,e07000062,2023,4.0
+hastings,e07000062,2024,6.1
+lewes,e07000063,2015,5.1
+lewes,e07000063,2016,3.7
+lewes,e07000063,2017,3.4
+lewes,e07000063,2018,3.1
+lewes,e07000063,2019,3.4
+lewes,e07000063,2020,4.2
+lewes,e07000063,2021,4.2
+lewes,e07000063,2022,3.9
+lewes,e07000063,2023,3.7
+lewes,e07000063,2024,3.3
+rother,e07000064,2015,4.0
+rother,e07000064,2016,4.4
+rother,e07000064,2017,3.8
+rother,e07000064,2018,3.9
+rother,e07000064,2019,3.7
+rother,e07000064,2020,3.5
+rother,e07000064,2021,3.3
+rother,e07000064,2022,3.4
+rother,e07000064,2023,4.4
+rother,e07000064,2024,4.1
+wealden,e07000065,2015,3.5
+wealden,e07000065,2016,3.8
+wealden,e07000065,2017,2.9
+wealden,e07000065,2018,2.9
+wealden,e07000065,2019,2.7
+wealden,e07000065,2020,3.6
+wealden,e07000065,2021,3.6
+wealden,e07000065,2022,3.5
+wealden,e07000065,2023,3.3
+wealden,e07000065,2024,3.1
+basingstoke and deane,e07000084,2015,3.5
+basingstoke and deane,e07000084,2016,3.6
+basingstoke and deane,e07000084,2017,2.5
+basingstoke and deane,e07000084,2018,2.4
+basingstoke and deane,e07000084,2019,2.9
+basingstoke and deane,e07000084,2020,3.1
+basingstoke and deane,e07000084,2021,3.5
+basingstoke and deane,e07000084,2022,3.1
+basingstoke and deane,e07000084,2023,3.3
+basingstoke and deane,e07000084,2024,3.7
+east hampshire,e07000085,2015,3.3
+east hampshire,e07000085,2016,3.3
+east hampshire,e07000085,2017,3.0
+east hampshire,e07000085,2018,2.6
+east hampshire,e07000085,2019,2.3
+east hampshire,e07000085,2020,3.2
+east hampshire,e07000085,2021,3.3
+east hampshire,e07000085,2022,2.9
+east hampshire,e07000085,2023,3.1
+east hampshire,e07000085,2024,3.1
+eastleigh,e07000086,2015,3.2
+eastleigh,e07000086,2016,3.3
+eastleigh,e07000086,2017,3.1
+eastleigh,e07000086,2018,3.5
+eastleigh,e07000086,2019,3.1
+eastleigh,e07000086,2020,3.0
+eastleigh,e07000086,2021,3.4
+eastleigh,e07000086,2022,2.5
+eastleigh,e07000086,2023,2.3
+eastleigh,e07000086,2024,3.2
+fareham,e07000087,2015,3.0
+fareham,e07000087,2016,3.5
+fareham,e07000087,2017,2.8
+fareham,e07000087,2018,2.4
+fareham,e07000087,2019,2.5
+fareham,e07000087,2020,3.0
+fareham,e07000087,2021,3.8
+fareham,e07000087,2022,2.2
+fareham,e07000087,2023,2.4
+fareham,e07000087,2024,2.9
+gosport,e07000088,2015,4.9
+gosport,e07000088,2016,4.2
+gosport,e07000088,2017,3.5
+gosport,e07000088,2018,4.2
+gosport,e07000088,2019,3.4
+gosport,e07000088,2020,4.4
+gosport,e07000088,2021,4.2
+gosport,e07000088,2022,4.0
+gosport,e07000088,2023,3.4
+gosport,e07000088,2024,3.4
+hart,e07000089,2015,2.4
+hart,e07000089,2016,2.5
+hart,e07000089,2017,2.3
+hart,e07000089,2018,2.6
+hart,e07000089,2019,1.9
+hart,e07000089,2020,3.1
+hart,e07000089,2021,3.7
+hart,e07000089,2022,2.3
+hart,e07000089,2023,3.0
+hart,e07000089,2024,2.6
+havant,e07000090,2015,5.3
+havant,e07000090,2016,5.0
+havant,e07000090,2017,3.6
+havant,e07000090,2018,4.2
+havant,e07000090,2019,3.5
+havant,e07000090,2020,4.4
+havant,e07000090,2021,3.8
+havant,e07000090,2022,3.3
+havant,e07000090,2023,4.0
+havant,e07000090,2024,4.8
+new forest,e07000091,2015,3.5
+new forest,e07000091,2016,3.3
+new forest,e07000091,2017,2.5
+new forest,e07000091,2018,3.0
+new forest,e07000091,2019,2.3
+new forest,e07000091,2020,3.4
+new forest,e07000091,2021,3.7
+new forest,e07000091,2022,2.7
+new forest,e07000091,2023,2.9
+new forest,e07000091,2024,3.3
+rushmoor,e07000092,2015,3.7
+rushmoor,e07000092,2016,3.1
+rushmoor,e07000092,2017,2.9
+rushmoor,e07000092,2018,2.6
+rushmoor,e07000092,2019,2.6
+rushmoor,e07000092,2020,4.1
+rushmoor,e07000092,2021,3.6
+rushmoor,e07000092,2022,2.7
+rushmoor,e07000092,2023,3.0
+rushmoor,e07000092,2024,3.1
+test valley,e07000093,2015,2.6
+test valley,e07000093,2016,3.0
+test valley,e07000093,2017,2.4
+test valley,e07000093,2018,2.8
+test valley,e07000093,2019,2.7
+test valley,e07000093,2020,3.0
+test valley,e07000093,2021,2.7
+test valley,e07000093,2022,2.5
+test valley,e07000093,2023,2.3
+test valley,e07000093,2024,2.5
+winchester,e07000094,2015,2.3
+winchester,e07000094,2016,3.0
+winchester,e07000094,2017,2.4
+winchester,e07000094,2018,2.5
+winchester,e07000094,2019,2.8
+winchester,e07000094,2020,3.3
+winchester,e07000094,2021,2.7
+winchester,e07000094,2022,2.7
+winchester,e07000094,2023,3.0
+winchester,e07000094,2024,2.6
+ashford,e07000105,2015,5.1
+ashford,e07000105,2016,5.2
+ashford,e07000105,2017,3.5
+ashford,e07000105,2018,4.0
+ashford,e07000105,2019,4.1
+ashford,e07000105,2020,3.6
+ashford,e07000105,2021,4.5
+ashford,e07000105,2022,3.5
+ashford,e07000105,2023,3.9
+ashford,e07000105,2024,3.8
+canterbury,e07000106,2015,5.6
+canterbury,e07000106,2016,5.2
+canterbury,e07000106,2017,4.5
+canterbury,e07000106,2018,4.6
+canterbury,e07000106,2019,4.6
+canterbury,e07000106,2020,3.9
+canterbury,e07000106,2021,3.6
+canterbury,e07000106,2022,3.3
+canterbury,e07000106,2023,4.1
+canterbury,e07000106,2024,4.1
+dartford,e07000107,2015,5.6
+dartford,e07000107,2016,4.4
+dartford,e07000107,2017,2.9
+dartford,e07000107,2018,2.7
+dartford,e07000107,2019,2.6
+dartford,e07000107,2020,3.3
+dartford,e07000107,2021,4.6
+dartford,e07000107,2022,3.3
+dartford,e07000107,2023,3.3
+dartford,e07000107,2024,4.4
+dover,e07000108,2015,5.9
+dover,e07000108,2016,6.2
+dover,e07000108,2017,4.6
+dover,e07000108,2018,3.9
+dover,e07000108,2019,4.6
+dover,e07000108,2020,5.0
+dover,e07000108,2021,5.2
+dover,e07000108,2022,3.6
+dover,e07000108,2023,3.9
+dover,e07000108,2024,4.7
+gravesham,e07000109,2015,7.1
+gravesham,e07000109,2016,6.9
+gravesham,e07000109,2017,5.0
+gravesham,e07000109,2018,4.5
+gravesham,e07000109,2019,4.5
+gravesham,e07000109,2020,4.6
+gravesham,e07000109,2021,4.3
+gravesham,e07000109,2022,2.9
+gravesham,e07000109,2023,3.7
+gravesham,e07000109,2024,3.8
+maidstone,e07000110,2015,4.2
+maidstone,e07000110,2016,4.2
+maidstone,e07000110,2017,4.0
+maidstone,e07000110,2018,3.0
+maidstone,e07000110,2019,2.5
+maidstone,e07000110,2020,3.7
+maidstone,e07000110,2021,3.7
+maidstone,e07000110,2022,2.8
+maidstone,e07000110,2023,3.5
+maidstone,e07000110,2024,3.6
+sevenoaks,e07000111,2015,3.8
+sevenoaks,e07000111,2016,3.5
+sevenoaks,e07000111,2017,3.0
+sevenoaks,e07000111,2018,2.8
+sevenoaks,e07000111,2019,2.9
+sevenoaks,e07000111,2020,3.8
+sevenoaks,e07000111,2021,3.7
+sevenoaks,e07000111,2022,3.0
+sevenoaks,e07000111,2023,3.0
+sevenoaks,e07000111,2024,3.4
+folkestone and hythe,e07000112,2015,5.3
+folkestone and hythe,e07000112,2016,5.5
+folkestone and hythe,e07000112,2017,3.8
+folkestone and hythe,e07000112,2018,4.6
+folkestone and hythe,e07000112,2019,4.0
+folkestone and hythe,e07000112,2020,3.9
+folkestone and hythe,e07000112,2021,4.1
+folkestone and hythe,e07000112,2022,4.0
+folkestone and hythe,e07000112,2023,5.1
+folkestone and hythe,e07000112,2024,4.4
+swale,e07000113,2015,5.8
+swale,e07000113,2016,6.2
+swale,e07000113,2017,5.1
+swale,e07000113,2018,6.0
+swale,e07000113,2019,4.8
+swale,e07000113,2020,5.1
+swale,e07000113,2021,4.5
+swale,e07000113,2022,2.8
+swale,e07000113,2023,3.8
+swale,e07000113,2024,4.3
+thanet,e07000114,2015,8.2
+thanet,e07000114,2016,7.2
+thanet,e07000114,2017,4.6
+thanet,e07000114,2018,5.0
+thanet,e07000114,2019,5.2
+thanet,e07000114,2020,5.8
+thanet,e07000114,2021,5.8
+thanet,e07000114,2022,4.2
+thanet,e07000114,2023,5.3
+thanet,e07000114,2024,5.3
+tonbridge and malling,e07000115,2015,3.9
+tonbridge and malling,e07000115,2016,4.1
+tonbridge and malling,e07000115,2017,3.3
+tonbridge and malling,e07000115,2018,3.2
+tonbridge and malling,e07000115,2019,2.7
+tonbridge and malling,e07000115,2020,3.4
+tonbridge and malling,e07000115,2021,3.1
+tonbridge and malling,e07000115,2022,2.5
+tonbridge and malling,e07000115,2023,2.7
+tonbridge and malling,e07000115,2024,2.6
+tunbridge wells,e07000116,2015,3.8
+tunbridge wells,e07000116,2016,3.4
+tunbridge wells,e07000116,2017,3.0
+tunbridge wells,e07000116,2018,3.3
+tunbridge wells,e07000116,2019,2.8
+tunbridge wells,e07000116,2020,3.1
+tunbridge wells,e07000116,2021,3.5
+tunbridge wells,e07000116,2022,3.0
+tunbridge wells,e07000116,2023,2.9
+tunbridge wells,e07000116,2024,2.8
+cherwell,e07000177,2015,3.2
+cherwell,e07000177,2016,3.5
+cherwell,e07000177,2017,2.7
+cherwell,e07000177,2018,2.8
+cherwell,e07000177,2019,2.4
+cherwell,e07000177,2020,3.1
+cherwell,e07000177,2021,3.1
+cherwell,e07000177,2022,2.7
+cherwell,e07000177,2023,2.7
+cherwell,e07000177,2024,3.0
+oxford,e07000178,2015,3.8
+oxford,e07000178,2016,4.4
+oxford,e07000178,2017,3.2
+oxford,e07000178,2018,3.5
+oxford,e07000178,2019,3.1
+oxford,e07000178,2020,3.7
+oxford,e07000178,2021,4.8
+oxford,e07000178,2022,3.1
+oxford,e07000178,2023,3.1
+oxford,e07000178,2024,4.5
+south oxfordshire,e07000179,2015,2.6
+south oxfordshire,e07000179,2016,2.7
+south oxfordshire,e07000179,2017,2.6
+south oxfordshire,e07000179,2018,2.5
+south oxfordshire,e07000179,2019,2.3
+south oxfordshire,e07000179,2020,2.7
+south oxfordshire,e07000179,2021,3.3
+south oxfordshire,e07000179,2022,2.7
+south oxfordshire,e07000179,2023,2.6
+south oxfordshire,e07000179,2024,2.4
+vale of white horse,e07000180,2015,2.8
+vale of white horse,e07000180,2016,3.0
+vale of white horse,e07000180,2017,2.5
+vale of white horse,e07000180,2018,2.9
+vale of white horse,e07000180,2019,2.8
+vale of white horse,e07000180,2020,2.6
+vale of white horse,e07000180,2021,3.2
+vale of white horse,e07000180,2022,2.5
+vale of white horse,e07000180,2023,3.4
+vale of white horse,e07000180,2024,3.0
+west oxfordshire,e07000181,2015,2.9
+west oxfordshire,e07000181,2016,2.8
+west oxfordshire,e07000181,2017,2.3
+west oxfordshire,e07000181,2018,2.5
+west oxfordshire,e07000181,2019,2.0
+west oxfordshire,e07000181,2020,3.6
+west oxfordshire,e07000181,2021,2.9
+west oxfordshire,e07000181,2022,2.4
+west oxfordshire,e07000181,2023,2.2
+west oxfordshire,e07000181,2024,2.4
+elmbridge,e07000207,2015,3.2
+elmbridge,e07000207,2016,3.2
+elmbridge,e07000207,2017,3.0
+elmbridge,e07000207,2018,2.5
+elmbridge,e07000207,2019,2.5
+elmbridge,e07000207,2020,3.0
+elmbridge,e07000207,2021,3.4
+elmbridge,e07000207,2022,2.5
+elmbridge,e07000207,2023,2.6
+elmbridge,e07000207,2024,3.3
+epsom and ewell,e07000208,2015,2.7
+epsom and ewell,e07000208,2016,2.8
+epsom and ewell,e07000208,2017,3.5
+epsom and ewell,e07000208,2018,3.1
+epsom and ewell,e07000208,2019,2.2
+epsom and ewell,e07000208,2020,2.7
+epsom and ewell,e07000208,2021,3.3
+epsom and ewell,e07000208,2022,2.4
+epsom and ewell,e07000208,2023,2.3
+epsom and ewell,e07000208,2024,2.7
+guildford,e07000209,2015,3.3
+guildford,e07000209,2016,3.6
+guildford,e07000209,2017,2.5
+guildford,e07000209,2018,2.7
+guildford,e07000209,2019,1.9
+guildford,e07000209,2020,3.0
+guildford,e07000209,2021,2.8
+guildford,e07000209,2022,2.1
+guildford,e07000209,2023,2.4
+guildford,e07000209,2024,2.4
+mole valley,e07000210,2015,3.0
+mole valley,e07000210,2016,3.1
+mole valley,e07000210,2017,2.8
+mole valley,e07000210,2018,2.9
+mole valley,e07000210,2019,2.1
+mole valley,e07000210,2020,3.0
+mole valley,e07000210,2021,3.2
+mole valley,e07000210,2022,2.5
+mole valley,e07000210,2023,1.9
+mole valley,e07000210,2024,2.8
+reigate and banstead,e07000211,2015,3.4
+reigate and banstead,e07000211,2016,3.1
+reigate and banstead,e07000211,2017,2.7
+reigate and banstead,e07000211,2018,3.0
+reigate and banstead,e07000211,2019,2.5
+reigate and banstead,e07000211,2020,2.9
+reigate and banstead,e07000211,2021,3.2
+reigate and banstead,e07000211,2022,2.1
+reigate and banstead,e07000211,2023,2.1
+reigate and banstead,e07000211,2024,2.5
+runnymede,e07000212,2015,3.2
+runnymede,e07000212,2016,3.0
+runnymede,e07000212,2017,2.6
+runnymede,e07000212,2018,2.7
+runnymede,e07000212,2019,2.1
+runnymede,e07000212,2020,3.0
+runnymede,e07000212,2021,3.5
+runnymede,e07000212,2022,2.5
+runnymede,e07000212,2023,3.1
+runnymede,e07000212,2024,3.5
+spelthorne,e07000213,2015,3.5
+spelthorne,e07000213,2016,4.0
+spelthorne,e07000213,2017,3.3
+spelthorne,e07000213,2018,2.6
+spelthorne,e07000213,2019,2.7
+spelthorne,e07000213,2020,3.7
+spelthorne,e07000213,2021,3.7
+spelthorne,e07000213,2022,3.3
+spelthorne,e07000213,2023,4.1
+spelthorne,e07000213,2024,4.2
+surrey heath,e07000214,2015,3.1
+surrey heath,e07000214,2016,3.0
+surrey heath,e07000214,2017,2.7
+surrey heath,e07000214,2018,2.6
+surrey heath,e07000214,2019,2.3
+surrey heath,e07000214,2020,3.4
+surrey heath,e07000214,2021,2.9
+surrey heath,e07000214,2022,3.3
+surrey heath,e07000214,2023,2.6
+surrey heath,e07000214,2024,3.1
+tandridge,e07000215,2015,3.0
+tandridge,e07000215,2016,2.8
+tandridge,e07000215,2017,2.6
+tandridge,e07000215,2018,3.0
+tandridge,e07000215,2019,2.5
+tandridge,e07000215,2020,2.9
+tandridge,e07000215,2021,2.9
+tandridge,e07000215,2022,2.6
+tandridge,e07000215,2023,3.4
+tandridge,e07000215,2024,3.7
+waverley,e07000216,2015,3.1
+waverley,e07000216,2016,2.5
+waverley,e07000216,2017,2.5
+waverley,e07000216,2018,2.3
+waverley,e07000216,2019,1.9
+waverley,e07000216,2020,3.0
+waverley,e07000216,2021,2.9
+waverley,e07000216,2022,2.4
+waverley,e07000216,2023,2.1
+waverley,e07000216,2024,2.7
+woking,e07000217,2015,3.4
+woking,e07000217,2016,2.4
+woking,e07000217,2017,2.3
+woking,e07000217,2018,2.6
+woking,e07000217,2019,2.1
+woking,e07000217,2020,3.1
+woking,e07000217,2021,3.8
+woking,e07000217,2022,2.6
+woking,e07000217,2023,3.0
+woking,e07000217,2024,3.1
+adur,e07000223,2015,4.1
+adur,e07000223,2016,5.0
+adur,e07000223,2017,3.3
+adur,e07000223,2018,3.3
+adur,e07000223,2019,3.3
+adur,e07000223,2020,3.6
+adur,e07000223,2021,3.9
+adur,e07000223,2022,2.9
+adur,e07000223,2023,3.3
+adur,e07000223,2024,3.5
+arun,e07000224,2015,3.8
+arun,e07000224,2016,4.7
+arun,e07000224,2017,3.4
+arun,e07000224,2018,3.1
+arun,e07000224,2019,3.1
+arun,e07000224,2020,4.2
+arun,e07000224,2021,3.4
+arun,e07000224,2022,3.4
+arun,e07000224,2023,3.3
+arun,e07000224,2024,4.3
+chichester,e07000225,2015,2.9
+chichester,e07000225,2016,3.3
+chichester,e07000225,2017,2.7
+chichester,e07000225,2018,2.3
+chichester,e07000225,2019,2.8
+chichester,e07000225,2020,3.3
+chichester,e07000225,2021,4.1
+chichester,e07000225,2022,3.8
+chichester,e07000225,2023,4.0
+chichester,e07000225,2024,3.4
+crawley,e07000226,2015,5.2
+crawley,e07000226,2016,4.5
+crawley,e07000226,2017,3.2
+crawley,e07000226,2018,3.7
+crawley,e07000226,2019,3.6
+crawley,e07000226,2020,4.2
+crawley,e07000226,2021,4.3
+crawley,e07000226,2022,3.4
+crawley,e07000226,2023,4.0
+crawley,e07000226,2024,3.8
+horsham,e07000227,2015,3.1
+horsham,e07000227,2016,3.0
+horsham,e07000227,2017,2.5
+horsham,e07000227,2018,3.1
+horsham,e07000227,2019,2.5
+horsham,e07000227,2020,2.9
+horsham,e07000227,2021,3.4
+horsham,e07000227,2022,2.1
+horsham,e07000227,2023,2.7
+horsham,e07000227,2024,2.6
+mid sussex,e07000228,2015,2.7
+mid sussex,e07000228,2016,2.7
+mid sussex,e07000228,2017,2.3
+mid sussex,e07000228,2018,2.1
+mid sussex,e07000228,2019,1.9
+mid sussex,e07000228,2020,2.8
+mid sussex,e07000228,2021,2.9
+mid sussex,e07000228,2022,1.7
+mid sussex,e07000228,2023,2.5
+mid sussex,e07000228,2024,2.5
+worthing,e07000229,2015,4.2
+worthing,e07000229,2016,4.0
+worthing,e07000229,2017,3.5
+worthing,e07000229,2018,3.4
+worthing,e07000229,2019,3.2
+worthing,e07000229,2020,3.9
+worthing,e07000229,2021,4.1
+worthing,e07000229,2022,3.6
+worthing,e07000229,2023,3.6
+worthing,e07000229,2024,3.4
+bath and north east somerset,e06000022,2015,4.1
+bath and north east somerset,e06000022,2016,4.1
+bath and north east somerset,e06000022,2017,3.6
+bath and north east somerset,e06000022,2018,3.2
+bath and north east somerset,e06000022,2019,3.3
+bath and north east somerset,e06000022,2020,3.4
+bath and north east somerset,e06000022,2021,3.3
+bath and north east somerset,e06000022,2022,2.4
+bath and north east somerset,e06000022,2023,2.4
+bath and north east somerset,e06000022,2024,2.8
+"bristol, city of",e06000023,2015,5.3
+"bristol, city of",e06000023,2016,5.0
+"bristol, city of",e06000023,2017,4.4
+"bristol, city of",e06000023,2018,3.4
+"bristol, city of",e06000023,2019,4.2
+"bristol, city of",e06000023,2020,4.3
+"bristol, city of",e06000023,2021,4.6
+"bristol, city of",e06000023,2022,3.1
+"bristol, city of",e06000023,2023,3.5
+"bristol, city of",e06000023,2024,3.4
+cornwall,e06000052,2015,4.2
+cornwall,e06000052,2016,4.3
+cornwall,e06000052,2017,3.3
+cornwall,e06000052,2018,2.7
+cornwall,e06000052,2019,3.3
+cornwall,e06000052,2020,3.4
+cornwall,e06000052,2021,3.9
+cornwall,e06000052,2022,2.8
+cornwall,e06000052,2023,2.9
+cornwall,e06000052,2024,3.0
+isles of scilly,e06000053,2015,-
+isles of scilly,e06000053,2016,-
+isles of scilly,e06000053,2017,-
+isles of scilly,e06000053,2018,-
+isles of scilly,e06000053,2019,-
+isles of scilly,e06000053,2020,-
+isles of scilly,e06000053,2021,-
+isles of scilly,e06000053,2022,-
+isles of scilly,e06000053,2023,-
+isles of scilly,e06000053,2024,-
+north somerset,e06000024,2015,3.8
+north somerset,e06000024,2016,3.8
+north somerset,e06000024,2017,3.0
+north somerset,e06000024,2018,2.8
+north somerset,e06000024,2019,3.3
+north somerset,e06000024,2020,3.4
+north somerset,e06000024,2021,3.3
+north somerset,e06000024,2022,2.4
+north somerset,e06000024,2023,2.7
+north somerset,e06000024,2024,2.8
+plymouth,e06000026,2015,5.9
+plymouth,e06000026,2016,5.9
+plymouth,e06000026,2017,5.2
+plymouth,e06000026,2018,3.9
+plymouth,e06000026,2019,4.6
+plymouth,e06000026,2020,5.0
+plymouth,e06000026,2021,4.2
+plymouth,e06000026,2022,3.2
+plymouth,e06000026,2023,3.1
+plymouth,e06000026,2024,3.5
+south gloucestershire,e06000025,2015,3.7
+south gloucestershire,e06000025,2016,3.6
+south gloucestershire,e06000025,2017,3.4
+south gloucestershire,e06000025,2018,2.8
+south gloucestershire,e06000025,2019,3.0
+south gloucestershire,e06000025,2020,3.1
+south gloucestershire,e06000025,2021,3.1
+south gloucestershire,e06000025,2022,2.1
+south gloucestershire,e06000025,2023,2.1
+south gloucestershire,e06000025,2024,2.2
+swindon,e06000030,2015,4.8
+swindon,e06000030,2016,4.2
+swindon,e06000030,2017,4.2
+swindon,e06000030,2018,3.6
+swindon,e06000030,2019,3.7
+swindon,e06000030,2020,3.3
+swindon,e06000030,2021,4.2
+swindon,e06000030,2022,3.2
+swindon,e06000030,2023,2.6
+swindon,e06000030,2024,2.6
+torbay,e06000027,2015,5.9
+torbay,e06000027,2016,5.5
+torbay,e06000027,2017,4.1
+torbay,e06000027,2018,3.2
+torbay,e06000027,2019,4.3
+torbay,e06000027,2020,4.5
+torbay,e06000027,2021,4.3
+torbay,e06000027,2022,3.0
+torbay,e06000027,2023,3.1
+torbay,e06000027,2024,2.8
+wiltshire,e06000054,2015,3.4
+wiltshire,e06000054,2016,3.4
+wiltshire,e06000054,2017,3.0
+wiltshire,e06000054,2018,2.6
+wiltshire,e06000054,2019,2.9
+wiltshire,e06000054,2020,3.0
+wiltshire,e06000054,2021,3.0
+wiltshire,e06000054,2022,2.2
+wiltshire,e06000054,2023,2.2
+wiltshire,e06000054,2024,2.2
+east devon,e07000040,2015,2.5
+east devon,e07000040,2016,3.3
+east devon,e07000040,2017,2.6
+east devon,e07000040,2018,2.0
+east devon,e07000040,2019,2.1
+east devon,e07000040,2020,3.1
+east devon,e07000040,2021,3.2
+east devon,e07000040,2022,2.7
+east devon,e07000040,2023,2.2
+east devon,e07000040,2024,2.2
+exeter,e07000041,2015,4.1
+exeter,e07000041,2016,4.6
+exeter,e07000041,2017,4.2
+exeter,e07000041,2018,2.8
+exeter,e07000041,2019,3.0
+exeter,e07000041,2020,4.1
+exeter,e07000041,2021,3.8
+exeter,e07000041,2022,3.1
+exeter,e07000041,2023,2.6
+exeter,e07000041,2024,2.6
+mid devon,e07000042,2015,2.9
+mid devon,e07000042,2016,3.0
+mid devon,e07000042,2017,2.6
+mid devon,e07000042,2018,2.2
+mid devon,e07000042,2019,2.9
+mid devon,e07000042,2020,3.0
+mid devon,e07000042,2021,3.4
+mid devon,e07000042,2022,3.1
+mid devon,e07000042,2023,2.2
+mid devon,e07000042,2024,2.4
+north devon,e07000043,2015,2.8
+north devon,e07000043,2016,3.6
+north devon,e07000043,2017,2.6
+north devon,e07000043,2018,1.9
+north devon,e07000043,2019,2.7
+north devon,e07000043,2020,2.6
+north devon,e07000043,2021,3.3
+north devon,e07000043,2022,2.6
+north devon,e07000043,2023,2.3
+north devon,e07000043,2024,2.9
+south hams,e07000044,2015,2.8
+south hams,e07000044,2016,3.3
+south hams,e07000044,2017,2.3
+south hams,e07000044,2018,1.9
+south hams,e07000044,2019,2.2
+south hams,e07000044,2020,3.0
+south hams,e07000044,2021,3.3
+south hams,e07000044,2022,2.0
+south hams,e07000044,2023,1.7
+south hams,e07000044,2024,2.9
+teignbridge,e07000045,2015,2.8
+teignbridge,e07000045,2016,3.6
+teignbridge,e07000045,2017,2.8
+teignbridge,e07000045,2018,2.2
+teignbridge,e07000045,2019,2.8
+teignbridge,e07000045,2020,3.4
+teignbridge,e07000045,2021,3.2
+teignbridge,e07000045,2022,2.5
+teignbridge,e07000045,2023,2.9
+teignbridge,e07000045,2024,2.6
+torridge,e07000046,2015,4.8
+torridge,e07000046,2016,5.1
+torridge,e07000046,2017,3.4
+torridge,e07000046,2018,2.5
+torridge,e07000046,2019,2.5
+torridge,e07000046,2020,3.4
+torridge,e07000046,2021,3.1
+torridge,e07000046,2022,2.2
+torridge,e07000046,2023,2.3
+torridge,e07000046,2024,2.5
+west devon,e07000047,2015,2.6
+west devon,e07000047,2016,2.7
+west devon,e07000047,2017,2.5
+west devon,e07000047,2018,2.3
+west devon,e07000047,2019,2.5
+west devon,e07000047,2020,3.0
+west devon,e07000047,2021,3.1
+west devon,e07000047,2022,2.3
+west devon,e07000047,2023,2.9
+west devon,e07000047,2024,2.7
+"bournemouth, christchurch and poole",e06000058,2015,4.2
+"bournemouth, christchurch and poole",e06000058,2016,4.4
+"bournemouth, christchurch and poole",e06000058,2017,3.5
+"bournemouth, christchurch and poole",e06000058,2018,3.2
+"bournemouth, christchurch and poole",e06000058,2019,3.3
+"bournemouth, christchurch and poole",e06000058,2020,3.8
+"bournemouth, christchurch and poole",e06000058,2021,4.3
+"bournemouth, christchurch and poole",e06000058,2022,3.0
+"bournemouth, christchurch and poole",e06000058,2023,3.2
+"bournemouth, christchurch and poole",e06000058,2024,3.1
+dorset,e06000059,2015,3.0
+dorset,e06000059,2016,3.5
+dorset,e06000059,2017,2.7
+dorset,e06000059,2018,2.4
+dorset,e06000059,2019,2.8
+dorset,e06000059,2020,3.1
+dorset,e06000059,2021,3.4
+dorset,e06000059,2022,2.6
+dorset,e06000059,2023,2.4
+dorset,e06000059,2024,2.6
+cheltenham,e07000078,2015,4.2
+cheltenham,e07000078,2016,4.3
+cheltenham,e07000078,2017,3.0
+cheltenham,e07000078,2018,2.5
+cheltenham,e07000078,2019,3.1
+cheltenham,e07000078,2020,3.1
+cheltenham,e07000078,2021,3.5
+cheltenham,e07000078,2022,2.0
+cheltenham,e07000078,2023,2.5
+cheltenham,e07000078,2024,2.0
+cotswold,e07000079,2015,2.7
+cotswold,e07000079,2016,2.6
+cotswold,e07000079,2017,2.2
+cotswold,e07000079,2018,2.2
+cotswold,e07000079,2019,2.5
+cotswold,e07000079,2020,2.7
+cotswold,e07000079,2021,2.7
+cotswold,e07000079,2022,1.9
+cotswold,e07000079,2023,2.0
+cotswold,e07000079,2024,2.2
+forest of dean,e07000080,2015,4.1
+forest of dean,e07000080,2016,4.6
+forest of dean,e07000080,2017,3.8
+forest of dean,e07000080,2018,3.2
+forest of dean,e07000080,2019,3.3
+forest of dean,e07000080,2020,3.0
+forest of dean,e07000080,2021,3.7
+forest of dean,e07000080,2022,2.9
+forest of dean,e07000080,2023,2.0
+forest of dean,e07000080,2024,2.3
+gloucester,e07000081,2015,6.1
+gloucester,e07000081,2016,4.7
+gloucester,e07000081,2017,3.8
+gloucester,e07000081,2018,2.9
+gloucester,e07000081,2019,4.0
+gloucester,e07000081,2020,4.0
+gloucester,e07000081,2021,3.8
+gloucester,e07000081,2022,3.0
+gloucester,e07000081,2023,2.8
+gloucester,e07000081,2024,2.5
+stroud,e07000082,2015,3.2
+stroud,e07000082,2016,2.8
+stroud,e07000082,2017,2.7
+stroud,e07000082,2018,2.4
+stroud,e07000082,2019,2.3
+stroud,e07000082,2020,2.7
+stroud,e07000082,2021,3.0
+stroud,e07000082,2022,2.4
+stroud,e07000082,2023,1.9
+stroud,e07000082,2024,2.4
+tewkesbury,e07000083,2015,4.0
+tewkesbury,e07000083,2016,3.7
+tewkesbury,e07000083,2017,3.1
+tewkesbury,e07000083,2018,2.3
+tewkesbury,e07000083,2019,3.2
+tewkesbury,e07000083,2020,2.9
+tewkesbury,e07000083,2021,3.5
+tewkesbury,e07000083,2022,2.2
+tewkesbury,e07000083,2023,2.5
+tewkesbury,e07000083,2024,2.5
+mendip,e07000187,2015,4.0
+mendip,e07000187,2016,4.2
+mendip,e07000187,2017,4.3
+mendip,e07000187,2018,3.9
+mendip,e07000187,2019,3.3
+mendip,e07000187,2020,3.4
+mendip,e07000187,2021,3.4
+mendip,e07000187,2022,2.5
+mendip,e07000187,2023,2.5
+mendip,e07000187,2024,2.2
+sedgemoor,e07000188,2015,5.2
+sedgemoor,e07000188,2016,4.9
+sedgemoor,e07000188,2017,5.0
+sedgemoor,e07000188,2018,3.7
+sedgemoor,e07000188,2019,4.1
+sedgemoor,e07000188,2020,3.6
+sedgemoor,e07000188,2021,3.9
+sedgemoor,e07000188,2022,2.8
+sedgemoor,e07000188,2023,3.0
+sedgemoor,e07000188,2024,2.6
+south somerset,e07000189,2015,3.5
+south somerset,e07000189,2016,4.1
+south somerset,e07000189,2017,3.2
+south somerset,e07000189,2018,2.9
+south somerset,e07000189,2019,2.8
+south somerset,e07000189,2020,3.4
+south somerset,e07000189,2021,3.7
+south somerset,e07000189,2022,2.5
+south somerset,e07000189,2023,2.9
+south somerset,e07000189,2024,2.5
+somerset west and taunton,e07000246,2015,4.0
+somerset west and taunton,e07000246,2016,3.9
+somerset west and taunton,e07000246,2017,3.5
+somerset west and taunton,e07000246,2018,3.7
+somerset west and taunton,e07000246,2019,3.0
+somerset west and taunton,e07000246,2020,3.7
+somerset west and taunton,e07000246,2021,3.9
+somerset west and taunton,e07000246,2022,2.7
+somerset west and taunton,e07000246,2023,3.4
+somerset west and taunton,e07000246,2024,3.7
+NA,estimates for other geography types are not model-based and are taken,2015,NA
+NA,estimates for other geography types are not model-based and are taken,2016,NA
+NA,estimates for other geography types are not model-based and are taken,2017,NA
+NA,estimates for other geography types are not model-based and are taken,2018,NA
+NA,estimates for other geography types are not model-based and are taken,2019,NA
+NA,estimates for other geography types are not model-based and are taken,2020,NA
+NA,estimates for other geography types are not model-based and are taken,2021,NA
+NA,estimates for other geography types are not model-based and are taken,2022,NA
+NA,estimates for other geography types are not model-based and are taken,2023,NA
+NA,estimates for other geography types are not model-based and are taken,2024,NA
