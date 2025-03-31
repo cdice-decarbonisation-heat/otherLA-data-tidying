@@ -9,8 +9,10 @@ processed to UA x month (or year) level
 
     - [ ] ASHE income: 
         - https://www.nomisweb.co.uk/query/construct/submit.asp?menuOpt=201&fmt=xls&lr=geography&lc=date&fn=
-    
-    - GHG: https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2022
+        - tons missing  
+    - [x] GHG: https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2022
+        - CO2 emissions within the scope of influence of LAs (kt CO2)
+        - all done with no issues
 
     - Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
     - Unemployment (https://www.nomisweb.co.uk/query/construct/submit.asp?menuopt=201&subcomp=) 
