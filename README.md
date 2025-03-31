@@ -14,11 +14,15 @@ processed to UA x month (or year) level
         - CO2 emissions within the scope of influence of LAs (kt CO2)
         - all done with no issues
 
+```
+        The main data sources are the UK National Atmospheric Emissions Inventory and the DESNZ Official Statistics on energy consumption for local authority areas. All emissions included in the national inventory are covered except those from aviation, shipping and military transport, for which there is no obvious basis for allocation to local areas, and emissions of fluorinated gases, for which suitable data are not available to estimate these emissions at a local level.
+```
+
     - [x] Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
-        - done we use mean electricity consumption per HH in a LA -- simple aggregation by region (note limitations)
+        - variable: mean electricity consumption per HH in a LA -- simple aggregation by region (note limitations). From DESNZ
 
     - [x] Unemployment (https://www.nomisweb.co.uk/query/construct/submit.asp?menuopt=201&subcomp=) 
-        ○ Source annual population study -- modelled unemployment
+        ○ Variable: Modelled unemployment rate from the  annual population study
 
 ```
         This dataset gives the official unemployment figures for local authorities. Model-based estimates are only available for total unemployed; they are not produced for male or female unemployed. Official unemployment figures for other geographies have been included in this dataset for comparison purposes. Estimates for these areas are not model-based and have been taken directly from the Annual Population Survey dataset.
@@ -30,8 +34,9 @@ processed to UA x month (or year) level
 https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=127
 ```
 
-    - New builds : https://www.gov.uk/government/statistical-data-sets/live-tables-on-net-supply-of-housing
+    - [ ] New builds : https://www.gov.uk/government/statistical-data-sets/live-tables-on-net-supply-of-housing
 Table 123
+    -  this is a pain as it's not 2021 local authority/ type 
 
 
 `/data`: cleaned data goes in this main folder
