@@ -9,16 +9,34 @@ processed to UA x month (or year) level
 
     - [ ] ASHE income: 
         - https://www.nomisweb.co.uk/query/construct/submit.asp?menuOpt=201&fmt=xls&lr=geography&lc=date&fn=
-    
-    - GHG: https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2022
+        - tons missing  
+    - [x] GHG: https://www.gov.uk/government/statistics/uk-local-authority-and-regional-greenhouse-gas-emissions-statistics-2005-to-2022
+        - CO2 emissions within the scope of influence of LAs (kt CO2)
+        - all done with no issues
 
-    - Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
-    - Unemployment (https://www.nomisweb.co.uk/query/construct/submit.asp?menuopt=201&subcomp=) 
-        ○ Source annual population study
-    - Solar radiation: tool is here : https://joint-research-centre.ec.europa.eu/photovoltaic-geographical-information-system-pvgis_en 
-        ○ However querying the API would be difficult 
-    - New builds : https://www.gov.uk/government/statistical-data-sets/live-tables-on-net-supply-of-housing
+```
+        The main data sources are the UK National Atmospheric Emissions Inventory and the DESNZ Official Statistics on energy consumption for local authority areas. All emissions included in the national inventory are covered except those from aviation, shipping and military transport, for which there is no obvious basis for allocation to local areas, and emissions of fluorinated gases, for which suitable data are not available to estimate these emissions at a local level.
+```
+
+    - [x] Electricity consumption: https://www.gov.uk/government/statistics/regional-and-local-authority-electricity-consumption-statistics
+        - variable: mean electricity consumption per HH in a LA -- simple aggregation by region (note limitations). From DESNZ
+
+    - [x] Unemployment (https://www.nomisweb.co.uk/query/construct/submit.asp?menuopt=201&subcomp=) 
+        ○ Variable: Modelled unemployment rate from the  annual population study
+
+```
+        This dataset gives the official unemployment figures for local authorities. Model-based estimates are only available for total unemployed; they are not produced for male or female unemployed. Official unemployment figures for other geographies have been included in this dataset for comparison purposes. Estimates for these areas are not model-based and have been taken directly from the Annual Population Survey dataset.
+        Background: As unemployed form a small percentage of the population, the Annual Population Survey (APS) unemployed estimates within local authorities are based on very small samples so for many areas are unreliable. To overcome this model-based estimates have been developed that provide better estimates of total unemployed for local authorities.
+        Methodology: The model-based estimate improves on the APS estimate by borrowing strength from the claimant count to produce an estimate that is more precise i.e. has a smaller confidence interval. The claimant count is not itself a measure of unemployment but is strongly correlated with unemployment, and, as it is an administrative count, is known without sampling error. The gain in precision is greatest for areas with smaller sample sizes.
+        Refer to the user guide (pdf) for further details.
+        
+        From <https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=127> 
+https://www.nomisweb.co.uk/query/construct/summary.asp?mode=construct&version=0&dataset=127
+```
+
+    - [ ] New builds : https://www.gov.uk/government/statistical-data-sets/live-tables-on-net-supply-of-housing
 Table 123
+    -  this is a pain as it's not 2021 local authority/ type 
 
 
 `/data`: cleaned data goes in this main folder
